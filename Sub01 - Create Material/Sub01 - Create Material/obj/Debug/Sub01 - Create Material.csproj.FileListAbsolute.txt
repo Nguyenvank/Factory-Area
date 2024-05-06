@@ -1,0 +1,20 @@
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\bin\Debug\Sub01 - Create Material.exe.config
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\bin\Debug\Sub01 - Create Material.exe
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\bin\Debug\Sub01 - Create Material.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\bin\Debug\BarcodeLib.dll
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\bin\Debug\BarcodeLib.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Sub01 - Create Material.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Inventory_Data.frmSub01CreateMaterial.resources
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Inventory_Data.frmSub01CreateMaterial_HandOverPrint.resources
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Sub01___Create_Material.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Sub01 - Create Material.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Sub01 - Create Material.exe
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Sub01 - Create Material.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Inventory_Data.frmSub01CreateMaterial_VendorDetails.resources
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Inventory_Data.frmSub01CreateMaterial_ViewImage.resources
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Sub01 - Create Material.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Sub01 - Create Material.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Sub01 - Create Material.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Sub01 - Create Material\Sub01 - Create Material\obj\Debug\Inventory_Data.frmSub01CreateMaterial_v1o1.resources

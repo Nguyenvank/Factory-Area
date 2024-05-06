@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\bin\Debug\Inventory Safety Using.exe.config
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\bin\Debug\Inventory Safety Using.exe
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\bin\Debug\Inventory Safety Using.pdb
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\obj\Debug\Inventory Safety Using.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\obj\Debug\Inventory Safety Using.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\obj\Debug\Inventory_Data.frmInventorySafetyUsing.resources
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\obj\Debug\Inventory_Safety_Using.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\obj\Debug\Inventory Safety Using.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\obj\Debug\Inventory Safety Using.exe
+d:\documents\visual studio 2015\Projects\Inventory Safety Using\Inventory Safety Using\obj\Debug\Inventory Safety Using.pdb

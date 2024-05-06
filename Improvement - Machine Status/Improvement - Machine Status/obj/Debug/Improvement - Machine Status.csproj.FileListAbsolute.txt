@@ -1,0 +1,17 @@
+d:\documents\visual studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\bin\Debug\Machine Status.exe.config
+d:\documents\visual studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\bin\Debug\Machine Status.exe
+d:\documents\visual studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\bin\Debug\Machine Status.pdb
+d:\documents\visual studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Improvement - Machine Status.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Inventory_Data.frmTestFlowControls.resources
+d:\documents\visual studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Improvement___Machine_Status.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Improvement - Machine Status.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Machine Status.exe
+d:\documents\visual studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Machine Status.pdb
+D:\Documents\Visual Studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Improvement - Machine Status.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Improvement - Machine Status.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\bin\Debug\cls.dll.config
+D:\Documents\Visual Studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Inventory_Data.Ctrl.uc_MachinesStatus.resources
+D:\Documents\Visual Studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Inventory_Data.frm_Main.resources
+D:\Documents\Visual Studio 2015\Projects\Improvement - Machine Status\Improvement - Machine Status\obj\Debug\Improvement - Machine Status.csproj.CopyComplete

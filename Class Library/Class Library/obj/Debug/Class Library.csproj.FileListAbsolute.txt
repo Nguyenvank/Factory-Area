@@ -1,0 +1,7 @@
+d:\documents\visual studio 2015\Projects\Class Library\Class Library\bin\Debug\cls.dll
+d:\documents\visual studio 2015\Projects\Class Library\Class Library\bin\Debug\cls.pdb
+d:\documents\visual studio 2015\Projects\Class Library\Class Library\obj\Debug\Class Library.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Class Library\Class Library\obj\Debug\cls.dll
+d:\documents\visual studio 2015\Projects\Class Library\Class Library\obj\Debug\cls.pdb
+d:\documents\visual studio 2015\Projects\Class Library\Class Library\bin\Debug\cls.dll.config
+d:\documents\visual studio 2015\Projects\Class Library\Class Library\obj\Debug\Class Library.csproj.ResolveComReference.cache

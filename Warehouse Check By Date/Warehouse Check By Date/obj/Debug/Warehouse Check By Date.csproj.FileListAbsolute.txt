@@ -1,0 +1,17 @@
+d:\documents\visual studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Inventory_Data.frmWarehouseCheckDate_v2.resources
+d:\documents\visual studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Warehouse Check By Date.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\bin\Debug\Warehouse Check By Date.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\bin\Debug\Warehouse Check By Date.exe
+d:\documents\visual studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\bin\Debug\Warehouse Check By Date.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Warehouse Check By Date.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Warehouse Check By Date.exe
+d:\documents\visual studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Warehouse Check By Date.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Warehouse Check By Date.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Inventory_Data.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Inventory_Data.Ctrl.frmWarehouseCheckDate_v2o1.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Warehouse Check By Date.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\bin\Debug\cls.dll.config
+D:\Documents\Visual Studio 2015\Projects\Warehouse Check By Date\Warehouse Check By Date\obj\Debug\Warehouse Check By Date.csproj.CopyComplete

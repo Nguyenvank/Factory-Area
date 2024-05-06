@@ -1,0 +1,24 @@
+d:\documents\visual studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\bin\Debug\Assembly Capacity Monitoring v2.exe.config
+d:\documents\visual studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\bin\Debug\Assembly Capacity Monitoring v2.exe
+d:\documents\visual studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\bin\Debug\Assembly Capacity Monitoring v2.pdb
+d:\documents\visual studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.frmAssyProductionMonitoring_v2o4.resources
+d:\documents\visual studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Assembly Capacity Monitoring v2.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Assembly Capacity Monitoring v2.exe
+d:\documents\visual studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Assembly Capacity Monitoring v2.pdb
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Assembly_Capacity_Monitoring_v2.frmAssyProductionMonitoring_v2o5.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.frmAssyProductionMonitoring_v2o6.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.frmAssyProductionMonitoring.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.frmAssyProductionMonitoring_v2o7.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.frmAssyProductionMonitoring_v2o8.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Assembly Capacity Monitoring v2.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Assembly Capacity Monitoring v2.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Assembly Capacity Monitoring v2.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.frmAssyProductionMonitoring_v3o0.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.Ctrl.uc_AssyProductionMonitoring_v3o0o1.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.Ctrl.uc_AssyProductionMonitoring_v3o0o2.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.Ctrl.uc_AssyProductionMonitoring_v3o0o3.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.frm_Main.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Monitoring v2\Assembly Capacity Monitoring v2\obj\Debug\Inventory_Data.Ctrl.uc_AssyProductionMonitoring_v3o0o4.resources

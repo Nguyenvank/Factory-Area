@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\Assembly Line Define\Assembly Line Define\bin\Debug\Assembly Line Define.exe.config
+d:\documents\visual studio 2015\Projects\Assembly Line Define\Assembly Line Define\bin\Debug\Assembly Line Define.exe
+d:\documents\visual studio 2015\Projects\Assembly Line Define\Assembly Line Define\bin\Debug\Assembly Line Define.pdb
+d:\documents\visual studio 2015\Projects\Assembly Line Define\Assembly Line Define\obj\Debug\Inventory_Data.frmCapacityCodeTimeDefine.resources
+d:\documents\visual studio 2015\Projects\Assembly Line Define\Assembly Line Define\obj\Debug\Assembly_Line_Define.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Assembly Line Define\Assembly Line Define\obj\Debug\Assembly Line Define.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Assembly Line Define\Assembly Line Define\obj\Debug\Assembly Line Define.exe
+d:\documents\visual studio 2015\Projects\Assembly Line Define\Assembly Line Define\obj\Debug\Assembly Line Define.pdb

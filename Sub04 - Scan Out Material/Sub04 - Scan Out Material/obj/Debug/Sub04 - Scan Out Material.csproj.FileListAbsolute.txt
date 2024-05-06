@@ -1,0 +1,17 @@
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\bin\Debug\Sub05 - Scan Out Material.exe.config
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\bin\Debug\Sub05 - Scan Out Material.exe
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\bin\Debug\Sub05 - Scan Out Material.pdb
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Sub04 - Scan Out Material.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Inventory_Data.frmSub04ScanOutMaterial.resources
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Inventory_Data.frmSub04ScanOutMaterial_PrintBill.resources
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Inventory_Data.frmSub04ScanOutMaterial_ViewImage.resources
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Inventory_Data.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Sub04 - Scan Out Material.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Sub05 - Scan Out Material.exe
+d:\documents\visual studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Sub05 - Scan Out Material.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Sub04 - Scan Out Material.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Inventory_Data.uc_MNT_SpareScanOut_PrintBill_v1o1.resources
+D:\Documents\Visual Studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Sub04 - Scan Out Material.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Sub04 - Scan Out Material\Sub04 - Scan Out Material\obj\Debug\Sub04 - Scan Out Material.csproj.CopyComplete

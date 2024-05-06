@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\bin\Debug\Warehouse Inventory Status.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Inventory_Data.frmWarehouseStatusMonitoring.resources
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse_Inventory_Status.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\bin\Debug\Warehouse Inventory Status.exe
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\bin\Debug\Warehouse Inventory Status.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.exe
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.pdb

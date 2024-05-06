@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\obj\Debug\DA_ERP.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\obj\Debug\DA_ERP.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\obj\Debug\DA_ERP.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\bin\Debug\DA_ERP.exe.config
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\bin\Debug\DA_ERP.exe
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\bin\Debug\DA_ERP.pdb
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\obj\Debug\DA_ERP.exe
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\obj\Debug\DA_ERP.pdb
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\obj\Debug\DA_ERP.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\DA_ERP\DA_ERP\obj\Debug\DA_ERP.employeeForm.resources

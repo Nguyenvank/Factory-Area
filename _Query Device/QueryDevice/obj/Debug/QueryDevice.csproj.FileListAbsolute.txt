@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2015\Projects\_Query Device\QueryDevice\bin\Debug\Any CPU\QueryDevice.exe
+D:\Documents\Visual Studio 2015\Projects\_Query Device\QueryDevice\bin\Debug\Any CPU\QueryDevice.pdb
+D:\Documents\Visual Studio 2015\Projects\_Query Device\QueryDevice\bin\Debug\Any CPU\Interop.AxSerial.dll
+D:\Documents\Visual Studio 2015\Projects\_Query Device\QueryDevice\obj\Debug\QueryDevice.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\_Query Device\QueryDevice\obj\Debug\QueryDevice.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\_Query Device\QueryDevice\obj\Debug\QueryDevice.QueryDevice.resources
+D:\Documents\Visual Studio 2015\Projects\_Query Device\QueryDevice\obj\Debug\QueryDevice.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\_Query Device\QueryDevice\obj\Debug\QueryDevice.exe
+D:\Documents\Visual Studio 2015\Projects\_Query Device\QueryDevice\obj\Debug\QueryDevice.pdb

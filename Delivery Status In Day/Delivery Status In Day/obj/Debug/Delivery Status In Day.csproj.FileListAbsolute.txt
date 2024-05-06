@@ -1,0 +1,14 @@
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\bin\Debug\Delivery Status In Day.exe.config
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\bin\Debug\Delivery Status In Day.exe
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\bin\Debug\Delivery Status In Day.pdb
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Delivery Status In Day.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Inventory_Data.frmDeliveryStatus.resources
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Delivery_Status_In_Day.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Delivery Status In Day.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Delivery Status In Day.exe
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Delivery Status In Day.pdb
+d:\documents\visual studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Inventory_Data.frmDeliveryStatus_v2.resources
+D:\Documents\Visual Studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Inventory_Data.frmDeliveryStatus_v3o1.resources
+D:\Documents\Visual Studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Delivery Status In Day.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Inventory_Data.frmDeliveryStatus_v3o2_AutoRefresh.resources
+D:\Documents\Visual Studio 2015\Projects\Delivery Status In Day\Delivery Status In Day\obj\Debug\Delivery Status In Day.csproj.CoreCompileInputs.cache

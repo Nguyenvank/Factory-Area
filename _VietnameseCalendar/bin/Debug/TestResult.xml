@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Projects\VietnameseCalendar\bin\Debug\VietnameseCalendar.dll" total="1" failures="0" not-run="0" date="2008-10-01" time="01:59:25">
+  <environment nunit-version="2.4.7.0" clr-version="2.0.50727.1433" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="D:\Projects\VietnameseCalendar" machine-name="LAP-013" user="thachnn" user-domain="LAP-013" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="D:\Projects\VietnameseCalendar\bin\Debug\VietnameseCalendar.dll" success="True" time="0.080" asserts="0">
+    <results>
+      <test-suite name="System" success="True" time="0.070" asserts="0">
+        <results>
+          <test-suite name="Globalization" success="True" time="0.070" asserts="0">
+            <results>
+              <test-suite name="VietnameseCalendarTest" success="True" time="0.060" asserts="0">
+                <results>
+                  <test-case name="System.Globalization.VietnameseCalendarTest.PrintHolidays" executed="True" success="True" time="0.040" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

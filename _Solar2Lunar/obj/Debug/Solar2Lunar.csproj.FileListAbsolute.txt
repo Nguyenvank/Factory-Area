@@ -1,0 +1,17 @@
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Lunar2Solar\Lunar2Solar\bin\Debug\Solar2Lunar.exe.config
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Lunar2Solar\Lunar2Solar\bin\Debug\Solar2Lunar.exe
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Lunar2Solar\Lunar2Solar\bin\Debug\Solar2Lunar.pdb
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Lunar2Solar\Lunar2Solar\obj\Debug\Solar2Lunar.csprojResolveAssemblyReference.cache
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Lunar2Solar\Lunar2Solar\obj\Debug\Solar2Lunar.Properties.Resources.resources
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Lunar2Solar\Lunar2Solar\obj\Debug\Solar2Lunar.csproj.GenerateResource.Cache
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Lunar2Solar\Lunar2Solar\obj\Debug\Solar2Lunar.exe
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Lunar2Solar\Lunar2Solar\obj\Debug\Solar2Lunar.pdb
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Solar2Lunar\Solar2Lunar\bin\Debug\Solar2Lunar.exe.config
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Solar2Lunar\Solar2Lunar\obj\Debug\Solar2Lunar.exe
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Solar2Lunar\Solar2Lunar\obj\Debug\Solar2Lunar.pdb
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Solar2Lunar\Solar2Lunar\bin\Debug\Solar2Lunar.exe
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Solar2Lunar\Solar2Lunar\bin\Debug\Solar2Lunar.pdb
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Solar2Lunar\Solar2Lunar\obj\Debug\Solar2Lunar.csprojResolveAssemblyReference.cache
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Solar2Lunar\Solar2Lunar\obj\Debug\Solar2Lunar.Properties.Resources.resources
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Solar2Lunar\Solar2Lunar\obj\Debug\Solar2Lunar.csproj.GenerateResource.Cache
+C:\Users\bangvs.VIETLONGSOFT\Documents\Visual Studio 2012\Projects\Solar2Lunar\Solar2Lunar\obj\Debug\Solar2Lunar.Form1.resources

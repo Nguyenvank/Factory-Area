@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\bin\Debug\Assembly Capacity Status.exe.config
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\bin\Debug\Assembly Capacity Status.exe
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\bin\Debug\Assembly Capacity Status.pdb
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\obj\Debug\Inventory_Data.frmAssyProductionMonitoring.resources
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\obj\Debug\Assembly_Capacity_Status.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\obj\Debug\Assembly Capacity Status.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\obj\Debug\Assembly Capacity Status.exe
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\obj\Debug\Assembly Capacity Status.pdb
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\obj\Debug\Inventory_Data.frmAssyProductionMonitoring_v2.resources
+D:\Documents\Visual Studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\obj\Debug\Inventory_Data.frmAssyProductionMonitoring_v2o1.resources
+d:\documents\visual studio 2015\Projects\Assembly Capacity Status\Assembly Capacity Status\obj\Debug\Assembly Capacity Status.csprojResolveAssemblyReference.cache

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="iso-8859-1"?><SUF70UninstallData>
+<DataFilePath>C:\Program Files\FMB Tracking System\Uninstall\uninstall.dat</DataFilePath>
+<CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\FMB Tracking System1.0</CPRegKey>
+<EXELocation>C:\Program Files\FMB Tracking System\uninstall.exe</EXELocation>
+<AppShortcutFolderPath>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\FMB Tracking System</AppShortcutFolderPath>
+<UninstallReverseOrder>1</UninstallReverseOrder>
+<UninstallFiles>
+<File>
+<Filename>C:\Program Files\FMB Tracking System\Barcode FMB-Mixing.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\FMB Tracking System\Barcode FMB-Mixing.exe.config</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\FMB Tracking System\Barcode FMB-Mixing.pdb</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\FMB Tracking System\Barcode FMB-Mixing.vshost.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\FMB Tracking System\Barcode FMB-Mixing.vshost.exe.config</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files\FMB Tracking System\Barcode FMB-Mixing.vshost.exe.manifest</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>D:\Documents\Desktop\FMB-Tracking System.lnk</Filename>
+<Filename>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\FMB-Tracking System.lnk</Filename>
+<Filename>C:\Users\ERP\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\FMB-Tracking System.lnk</Filename>
+<Filename>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\FMB-Tracking System.lnk</Filename>
+<Filename>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\FMB-Tracking System.lnk</Filename>
+<Filename>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\FMB Tracking System\Microsoft® Visual Studio® 2015.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>C:\Program Files\FMB Tracking System\Uninstall\IRIMG1.JPG</Filename>
+<Filename>C:\Program Files\FMB Tracking System\Uninstall\IRIMG2.JPG</Filename>
+<Filename>C:\Program Files\FMB Tracking System\Uninstall\IRIMG3.JPG</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>C:\Program Files\FMB Tracking System</FolderPath>
+<FolderPath>C:\Program Files\FMB Tracking System\Uninstall</FolderPath>
+<FolderPath>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\FMB Tracking System</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>FMB Tracking System</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>Dong-A Hwa Sung Vina</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>1.0</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>Copyright © 2015 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% Setup</Value>
+</Var>
+<Var>
+<Name>%WindowTitleUninstall%</Name>
+<Value>%ProductName% Uninstaller</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>C:\Program Files\FMB Tracking System</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>FMB Tracking System</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Users\ERP\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolderCommon%</Name>
+<Value>C:\ProgramData</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>D:\Documents\Desktop</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Users\Public\Desktop</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\Windows\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>D:\Documents</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%CommonDocumentsFolder%</Name>
+<Value>C:\Users\Public\Documents</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolder%</Name>
+<Value>D:\Documents\Music</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolderCommon%</Name>
+<Value>C:\Users\Public\Music</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolder%</Name>
+<Value>D:\Documents\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolderCommon%</Name>
+<Value>C:\Users\Public\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolder%</Name>
+<Value>D:\Documents\Videos</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolderCommon%</Name>
+<Value>C:\Users\Public\Videos</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder64%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder64%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\Windows\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\Windows</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\Users\ERP\AppData\Local\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\Users\ERP\AppData\Local\Temp\_ir_sf_temp_0</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>ERP</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>C:\Program Files\Common Files\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%LaunchUserName%</Name>
+<Value>ERP</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDomain%</Name>
+<Value>ERP-PC</Value>
+</Var>
+<Var>
+<Name>%LaunchUserApplicationDataFolder%</Name>
+<Value>C:\Users\ERP\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDesktopFolder%</Name>
+<Value>D:\Documents\Desktop</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyDocumentsFolder%</Name>
+<Value>D:\Documents</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartProgramsFolder%</Name>
+<Value>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartFolder%</Name>
+<Value>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartupFolder%</Name>
+<Value>C:\Users\ERP\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyMusicFolder%</Name>
+<Value>D:\Documents\Music</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyPicturesFolder%</Name>
+<Value>D:\Documents\Pictures</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyVideosFolder%</Name>
+<Value>D:\Documents\Videos</Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>\\192.168.1.2\IT Staff\SETUPS\Production Programs\FMB Tracking System-20170417.exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>\\192.168.1.2\IT Staff\SETUPS\Production Programs</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>\\192.168.1.2</Value>
+</Var>
+<Var>
+<Name>%SpaceAvailable%</Name>
+<Value>47.59 GB</Value>
+</Var>
+<Var>
+<Name>%SpaceRequired%</Name>
+<Value>318 KB</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>

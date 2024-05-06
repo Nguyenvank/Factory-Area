@@ -1,0 +1,3 @@
+D:\documents\visual studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\ResolveAssemblyReference.cache
+D:\documents\visual studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders Creator System.exe
+D:\documents\visual studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders Creator System.pdb

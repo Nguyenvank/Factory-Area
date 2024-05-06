@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\bin\Debug\Sale New Order v2.exe.config
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\bin\Debug\Sale New Order v2.exe
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\bin\Debug\Sale New Order v2.pdb
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\obj\Debug\Sale New Order v2.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\obj\Debug\Inventory_Data.frmSaleNewOrder2.resources
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\obj\Debug\Sale_New_Order_v2.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\obj\Debug\Sale New Order v2.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\obj\Debug\Sale New Order v2.exe
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\obj\Debug\Sale New Order v2.pdb
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\obj\Debug\Sale New Order v2.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\obj\Debug\Sale New Order v2.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Sale New Order v2\Sale New Order v2\obj\Debug\Sale New Order v2.csproj.AssemblyReference.cache

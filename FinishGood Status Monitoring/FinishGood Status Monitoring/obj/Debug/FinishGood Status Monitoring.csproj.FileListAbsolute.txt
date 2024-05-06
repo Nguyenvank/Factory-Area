@@ -1,0 +1,16 @@
+d:\documents\visual studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\bin\Debug\FinishGood Status Monitoring.exe.config
+d:\documents\visual studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\bin\Debug\FinishGood Status Monitoring.exe
+d:\documents\visual studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\bin\Debug\FinishGood Status Monitoring.pdb
+d:\documents\visual studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\Inventory_Data.frmFinishGoodInventoryStatus.resources
+d:\documents\visual studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\FinishGood_Status_Monitoring.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\FinishGood Status Monitoring.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\FinishGood Status Monitoring.exe
+d:\documents\visual studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\FinishGood Status Monitoring.pdb
+D:\Documents\Visual Studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\Inventory_Data.frmFinishGoodMonitoring_v2o0.resources
+D:\Documents\Visual Studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\FinishGood Status Monitoring.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\Inventory_Data.frmFinishGoodStatus_v2o1.resources
+D:\Documents\Visual Studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\FinishGood Status Monitoring.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\FinishGood Status Monitoring.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\FinishGood Status Monitoring\FinishGood Status Monitoring\obj\Debug\FinishGood Status Monitoring.csproj.CopyComplete

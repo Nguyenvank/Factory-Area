@@ -1,0 +1,127 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPOS for .NET", "OPOS for .NET\OPOS for .NET.csproj", "{1ED36B84-2BE6-487B-9AB2-A1A99AE76207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step1", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step1\PrinterSample_Step1.csproj", "{7635D1F1-FD5F-4EBD-8867-441A03F510FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step2", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step2\PrinterSample_Step2.csproj", "{F7629A74-0808-498A-AE32-D92A863C979F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step3", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step3\PrinterSample_Step3.csproj", "{23A7745B-1068-4438-8129-073A69BAF9E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step4", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step4\PrinterSample_Step4.csproj", "{4ACA5806-FA0A-4764-A899-B227F92021C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step5", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\PrinterSample_Step5.csproj", "{E07EE291-F136-4A8D-9C35-7438AEEBB5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step6", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step6\PrinterSample_Step6.csproj", "{E22B2CA8-0A5F-49C0-B4FD-53B6855B46B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step7", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step7\PrinterSample_Step7.csproj", "{974A2193-1F4C-4889-9B52-9230ACB4BE30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step8", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step8\PrinterSample_Step8.csproj", "{D07A5605-C482-4FA1-9B87-82C77BDCED3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step9", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step9\PrinterSample_Step9.csproj", "{81AFBBA9-82BB-4CD2-BB9F-D57D4374E7DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step10", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step10\PrinterSample_Step10.csproj", "{CCE0045E-B5AC-4D8A-84B4-8C6617899DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step11", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step11\PrinterSample_Step11.csproj", "{0A5654CA-7F99-452C-A8E8-022C4494DA40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step12", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step12\PrinterSample_Step12.csproj", "{91CD2BFB-0AE1-420D-8528-C0B8EFC3661E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step13", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step13\PrinterSample_Step13.csproj", "{D7DF216C-47DC-412C-A99B-1EA1EC861A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step14", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step14\PrinterSample_Step14.csproj", "{680B50E9-9BDA-47AE-B775-ED890286C88F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step15", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step15\PrinterSample_Step15.csproj", "{5CC5E058-B47E-4254-9367-CBCB1E28B009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterSample_Step16", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step16\PrinterSample_Step16.csproj", "{649949FB-30AA-44C0-A548-0294DEAB3EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstStep", "D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\FirstStep.csproj", "{87648AD8-32E2-420E-B755-ED3A2D8FFD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED36B84-2BE6-487B-9AB2-A1A99AE76207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED36B84-2BE6-487B-9AB2-A1A99AE76207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED36B84-2BE6-487B-9AB2-A1A99AE76207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED36B84-2BE6-487B-9AB2-A1A99AE76207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7635D1F1-FD5F-4EBD-8867-441A03F510FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7635D1F1-FD5F-4EBD-8867-441A03F510FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7635D1F1-FD5F-4EBD-8867-441A03F510FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7635D1F1-FD5F-4EBD-8867-441A03F510FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7629A74-0808-498A-AE32-D92A863C979F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7629A74-0808-498A-AE32-D92A863C979F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7629A74-0808-498A-AE32-D92A863C979F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7629A74-0808-498A-AE32-D92A863C979F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A7745B-1068-4438-8129-073A69BAF9E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A7745B-1068-4438-8129-073A69BAF9E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A7745B-1068-4438-8129-073A69BAF9E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A7745B-1068-4438-8129-073A69BAF9E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACA5806-FA0A-4764-A899-B227F92021C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACA5806-FA0A-4764-A899-B227F92021C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACA5806-FA0A-4764-A899-B227F92021C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACA5806-FA0A-4764-A899-B227F92021C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07EE291-F136-4A8D-9C35-7438AEEBB5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07EE291-F136-4A8D-9C35-7438AEEBB5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07EE291-F136-4A8D-9C35-7438AEEBB5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07EE291-F136-4A8D-9C35-7438AEEBB5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E22B2CA8-0A5F-49C0-B4FD-53B6855B46B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E22B2CA8-0A5F-49C0-B4FD-53B6855B46B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E22B2CA8-0A5F-49C0-B4FD-53B6855B46B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E22B2CA8-0A5F-49C0-B4FD-53B6855B46B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{974A2193-1F4C-4889-9B52-9230ACB4BE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974A2193-1F4C-4889-9B52-9230ACB4BE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974A2193-1F4C-4889-9B52-9230ACB4BE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974A2193-1F4C-4889-9B52-9230ACB4BE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07A5605-C482-4FA1-9B87-82C77BDCED3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07A5605-C482-4FA1-9B87-82C77BDCED3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07A5605-C482-4FA1-9B87-82C77BDCED3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07A5605-C482-4FA1-9B87-82C77BDCED3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81AFBBA9-82BB-4CD2-BB9F-D57D4374E7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AFBBA9-82BB-4CD2-BB9F-D57D4374E7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AFBBA9-82BB-4CD2-BB9F-D57D4374E7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AFBBA9-82BB-4CD2-BB9F-D57D4374E7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE0045E-B5AC-4D8A-84B4-8C6617899DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE0045E-B5AC-4D8A-84B4-8C6617899DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE0045E-B5AC-4D8A-84B4-8C6617899DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE0045E-B5AC-4D8A-84B4-8C6617899DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5654CA-7F99-452C-A8E8-022C4494DA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5654CA-7F99-452C-A8E8-022C4494DA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5654CA-7F99-452C-A8E8-022C4494DA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5654CA-7F99-452C-A8E8-022C4494DA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CD2BFB-0AE1-420D-8528-C0B8EFC3661E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CD2BFB-0AE1-420D-8528-C0B8EFC3661E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CD2BFB-0AE1-420D-8528-C0B8EFC3661E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CD2BFB-0AE1-420D-8528-C0B8EFC3661E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DF216C-47DC-412C-A99B-1EA1EC861A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DF216C-47DC-412C-A99B-1EA1EC861A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DF216C-47DC-412C-A99B-1EA1EC861A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DF216C-47DC-412C-A99B-1EA1EC861A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680B50E9-9BDA-47AE-B775-ED890286C88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680B50E9-9BDA-47AE-B775-ED890286C88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680B50E9-9BDA-47AE-B775-ED890286C88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680B50E9-9BDA-47AE-B775-ED890286C88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC5E058-B47E-4254-9367-CBCB1E28B009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC5E058-B47E-4254-9367-CBCB1E28B009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC5E058-B47E-4254-9367-CBCB1E28B009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC5E058-B47E-4254-9367-CBCB1E28B009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{649949FB-30AA-44C0-A548-0294DEAB3EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649949FB-30AA-44C0-A548-0294DEAB3EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649949FB-30AA-44C0-A548-0294DEAB3EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649949FB-30AA-44C0-A548-0294DEAB3EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87648AD8-32E2-420E-B755-ED3A2D8FFD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87648AD8-32E2-420E-B755-ED3A2D8FFD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87648AD8-32E2-420E-B755-ED3A2D8FFD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87648AD8-32E2-420E-B755-ED3A2D8FFD53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703A6C47-E611-4D72-90E4-0121932A5FD9}
+	EndGlobalSection
+EndGlobal

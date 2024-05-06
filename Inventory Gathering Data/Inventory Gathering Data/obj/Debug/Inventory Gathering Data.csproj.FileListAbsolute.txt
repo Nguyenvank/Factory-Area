@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data\Inventory Gathering Data\bin\Debug\Inventory Gathering Data.exe.config
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data\Inventory Gathering Data\bin\Debug\Inventory Gathering Data.exe
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data\Inventory Gathering Data\bin\Debug\Inventory Gathering Data.pdb
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data\Inventory Gathering Data\obj\Debug\Inventory_Data.frmWarehouseInventoryGatheringData.resources
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data\Inventory Gathering Data\obj\Debug\Inventory_Gathering_Data.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data\Inventory Gathering Data\obj\Debug\Inventory Gathering Data.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data\Inventory Gathering Data\obj\Debug\Inventory Gathering Data.exe
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data\Inventory Gathering Data\obj\Debug\Inventory Gathering Data.pdb
+D:\Documents\Visual Studio 2015\Projects\Inventory Gathering Data\Inventory Gathering Data\obj\Debug\Inventory Gathering Data.csprojResolveAssemblyReference.cache

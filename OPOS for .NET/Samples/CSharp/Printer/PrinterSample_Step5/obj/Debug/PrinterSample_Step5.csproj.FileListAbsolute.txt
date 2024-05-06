@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\bin\Debug\PrinterSample_Step5.exe
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\bin\Debug\PrinterSample_Step5.pdb
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\bin\Debug\Microsoft.PointOfService.dll
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\bin\Debug\Microsoft.PointOfService.xml
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\obj\Debug\PrinterSample_Step5.FrameStep5.resources
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\obj\Debug\PrinterSample_Step5.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\obj\Debug\PrinterSample_Step5.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\obj\Debug\PrinterSample_Step5.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\obj\Debug\PrinterSample_Step5.exe
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\Printer\PrinterSample_Step5\obj\Debug\PrinterSample_Step5.pdb

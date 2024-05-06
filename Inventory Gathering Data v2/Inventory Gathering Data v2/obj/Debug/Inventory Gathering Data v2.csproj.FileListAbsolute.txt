@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\obj\Debug\Inventory_Data.frmWarehouseInventoryGatheringData_v2.resources
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\obj\Debug\Inventory_Gathering_Data_v2.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\obj\Debug\Inventory Gathering Data v2.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\bin\Debug\Inventory Gathering Data v2.exe.config
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\bin\Debug\Inventory Gathering Data v2.exe
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\bin\Debug\Inventory Gathering Data v2.pdb
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\obj\Debug\Inventory Gathering Data v2.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\obj\Debug\Inventory Gathering Data v2.exe
+d:\documents\visual studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\obj\Debug\Inventory Gathering Data v2.pdb
+D:\Documents\Visual Studio 2015\Projects\Inventory Gathering Data v2\Inventory Gathering Data v2\obj\Debug\Inventory_Gathering_Data_v2.frmWarehouseInventoryGatheringData_v2_1.resources

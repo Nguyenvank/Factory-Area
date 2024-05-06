@@ -1,0 +1,21 @@
+d:\documents\visual studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Barcode Out-Stock.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.frmInventoryOutStock3.resources
+d:\documents\visual studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Barcode Out-Stock.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\bin\Debug\Barcode Out-Stock.exe.config
+d:\documents\visual studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\bin\Debug\Barcode Out-Stock.exe
+d:\documents\visual studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\bin\Debug\Barcode Out-Stock.pdb
+d:\documents\visual studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Barcode Out-Stock.exe
+d:\documents\visual studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Barcode Out-Stock.pdb
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.Ctrl.uc_FinishGoods_Scan_Out_v1o0.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.frm_Main.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Barcode Out-Stock.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Barcode Out-Stock.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Barcode Out-Stock.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.Ctrl.uc_FinishGoods_Scan_Out_v1o1.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.Ctrl.uc_FinishGoods_Scan_Out_v2o0.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.Ctrl.uc_FinishGoods_Scan_Out_v2o0_Warning_v1o0.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.Ctrl.uc_FinishGoods_Scan_Out_v2o0_Carts_Return_v1o0.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.Ctrl.uc_FinishGoods_Scan_Out_v2o0_Carts_Return_v1o1.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode Out-Stock\Barcode Out-Stock\obj\Debug\Inventory_Data.Ctrl.uc_FinishGoods_Scan_Out_v2o1.resources

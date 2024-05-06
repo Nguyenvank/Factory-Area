@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\Finish Good Labels\Finish Good Labels\bin\Debug\Finish Good Labels.exe.config
+d:\documents\visual studio 2015\Projects\Finish Good Labels\Finish Good Labels\bin\Debug\Finish Good Labels.exe
+d:\documents\visual studio 2015\Projects\Finish Good Labels\Finish Good Labels\bin\Debug\Finish Good Labels.pdb
+d:\documents\visual studio 2015\Projects\Finish Good Labels\Finish Good Labels\obj\Debug\Finish Good Labels.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Finish Good Labels\Finish Good Labels\obj\Debug\Inventory_Data.frmFinishGoodDataLabel_v1o1.resources
+d:\documents\visual studio 2015\Projects\Finish Good Labels\Finish Good Labels\obj\Debug\Finish_Good_Labels.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Finish Good Labels\Finish Good Labels\obj\Debug\Finish Good Labels.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Finish Good Labels\Finish Good Labels\obj\Debug\Finish Good Labels.exe
+d:\documents\visual studio 2015\Projects\Finish Good Labels\Finish Good Labels\obj\Debug\Finish Good Labels.pdb
+D:\Documents\Visual Studio 2015\Projects\Finish Good Labels\Finish Good Labels\obj\Debug\Finish Good Labels.csproj.CoreCompileInputs.cache

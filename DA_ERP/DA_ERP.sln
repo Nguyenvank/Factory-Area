@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA_ERP", "DA_ERP\DA_ERP.csproj", "{59DC8E0B-37A2-432B-9D8D-17393D588D32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A003415-D8E6-4050-A56D-EC8F1A47CA55}"
+	ProjectSection(SolutionItems) = preProject
+		employee.cs = employee.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DC8E0B-37A2-432B-9D8D-17393D588D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DC8E0B-37A2-432B-9D8D-17393D588D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DC8E0B-37A2-432B-9D8D-17393D588D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DC8E0B-37A2-432B-9D8D-17393D588D32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D7BF1B-89AA-417B-A650-17803C22A36A}
+	EndGlobalSection
+EndGlobal

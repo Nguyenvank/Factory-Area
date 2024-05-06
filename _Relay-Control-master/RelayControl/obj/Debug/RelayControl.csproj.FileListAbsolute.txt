@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\bin\Debug\RelayControl.exe.config
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\bin\Debug\RelayControl.exe
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\bin\Debug\RelayControl.pdb
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\bin\Debug\FTD2XX_NET.dll
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\obj\Debug\RelayControl.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\obj\Debug\RelayControl.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\obj\Debug\RelayControl.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\obj\Debug\RelayControl.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\obj\Debug\RelayControl.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\obj\Debug\RelayControl.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\obj\Debug\RelayControl.exe
+D:\Documents\Visual Studio 2015\Projects\_Relay-Control-master\RelayControl\obj\Debug\RelayControl.pdb

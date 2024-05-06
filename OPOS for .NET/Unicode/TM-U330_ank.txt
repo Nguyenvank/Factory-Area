@@ -1,0 +1,42 @@
+;
+;	TM-U330_ank Device Infomation file
+;
+;	Copyright (c) 2014 SEIKO EPSON Corp. All Rights reserved.
+;
+;	Revision history:
+;	2014-07-23	new
+;
+;
+
+[Common]
+MappingTableNumber=3
+InternalCharacterSetNumber=1
+ICSCommandDefault=0
+DecompositionClassNumber=1160
+GeneralCategorySize=2
+CanonicalCombiningClassSize=1
+BidiClassSize=3
+DecompositionMappingSize=4
+
+;CP437(USA,Standard Europe)
+[Table1]
+CodePage=437
+TableCommandParam=0
+TableFileName=cp437.txt
+
+;CP850(Multilingual)
+[Table2]
+CodePage=850
+TableCommandParam=2
+TableFileName=cp850.txt
+
+;Windows codepage 1252
+[Table3]
+CodePage=1252
+TableCommandParam=16
+TableFileName=cp1252.txt
+
+[ICS1]
+ICSCommandParam=0
+ICSFileName=ICS_None.txt
+

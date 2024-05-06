@@ -1,0 +1,24 @@
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\bin\Debug\Orders Creator System.exe.config
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\bin\Debug\Orders Creator System.exe
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\bin\Debug\Orders Creator System.pdb
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders Creator System.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders Creator System.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders_Creator_System.Ctrl.uc_EntranceSystem_Main.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Inventory_Data.Ctrl.uc_EntranceSystem_Register.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders_Creator_System.Ctrl.uc_EntranceSystem_Reports.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders_Creator_System.Ctrl.uc_EntranceSystem_Security.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Inventory_Data.Ctrl.uc_Temperature_LimitRange.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Inventory_Data.Ctrl.UC_TestControls.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Inventory_Data.frmPM_00LoginSystem.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Inventory_Data.frmPM_01WorkOrders.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Inventory_Data.frmPM_01WorkOrders_ES_Details.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Inventory_Data.frmPM_01WorkOrders_PW_Change.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Inventory_Data.frmPM_01WorkOrders_WO_Details.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders Creator System.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders Creator System.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders Creator System.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders Creator System.exe
+D:\Documents\Visual Studio 2015\Projects\Orders Creator System\Orders Creator System\obj\Debug\Orders Creator System.pdb

@@ -1,0 +1,17 @@
+;
+;	Unicode Conversion Module Setting file
+;
+;	Copyright (c) 2009 SEIKO EPSON Corp. All Rights reserved.
+;
+;	Revision history:
+;	2009-10-30	new
+;
+;
+
+[Settings]
+EncodeTypeDefault=0
+MissingCharacterCode=63
+DeviceInfoPath=
+MaximumHandle=100
+OutputBufferBlockSize=65536
+OutputBufferBlockMax=32

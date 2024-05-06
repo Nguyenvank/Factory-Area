@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\bin\Debug\Warehouse Material Scan-In WH4.exe.config
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\bin\Debug\Warehouse Material Scan-In WH4.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\bin\Debug\Warehouse Material Scan-In WH4.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\bin\Debug\DataMatrix.net.dll
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Warehouse Material Scan-In WH4.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Inventory_Data.frmWarehoiseMaterialScanInWH4_Details.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Inventory_Data.frmWarehouseMaterialScanInWH4.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Warehouse Material Scan-In WH4.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Warehouse Material Scan-In WH4.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Warehouse Material Scan-In WH4.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Warehouse Material Scan-In WH4.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Warehouse Material Scan-In WH4.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH4\Warehouse Material Scan-In WH4\obj\Debug\Warehouse Material Scan-In WH4.csproj.CopyComplete

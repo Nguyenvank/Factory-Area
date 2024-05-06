@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\Internal Production Order\Internal Production Order\bin\Debug\Internal Production Order.exe.config
+d:\documents\visual studio 2015\Projects\Internal Production Order\Internal Production Order\bin\Debug\Internal Production Order.exe
+d:\documents\visual studio 2015\Projects\Internal Production Order\Internal Production Order\bin\Debug\Internal Production Order.pdb
+d:\documents\visual studio 2015\Projects\Internal Production Order\Internal Production Order\obj\Debug\Internal Production Order.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Internal Production Order\Internal Production Order\obj\Debug\Inventory_Data.frmInternalProductionOrder.resources
+d:\documents\visual studio 2015\Projects\Internal Production Order\Internal Production Order\obj\Debug\Internal_Production_Order.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Internal Production Order\Internal Production Order\obj\Debug\Internal Production Order.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Internal Production Order\Internal Production Order\obj\Debug\Internal Production Order.exe
+d:\documents\visual studio 2015\Projects\Internal Production Order\Internal Production Order\obj\Debug\Internal Production Order.pdb
+D:\Documents\Visual Studio 2015\Projects\Internal Production Order\Internal Production Order\obj\Debug\Internal Production Order.csprojResolveAssemblyReference.cache

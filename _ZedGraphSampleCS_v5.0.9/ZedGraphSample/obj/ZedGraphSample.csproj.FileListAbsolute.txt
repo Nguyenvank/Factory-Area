@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2015\Projects\_ZedGraphSampleCS_v5.0.9\ZedGraphSample\bin\Debug\ZedGraphSample.exe
+D:\Documents\Visual Studio 2015\Projects\_ZedGraphSampleCS_v5.0.9\ZedGraphSample\bin\Debug\ZedGraphSample.pdb
+D:\Documents\Visual Studio 2015\Projects\_ZedGraphSampleCS_v5.0.9\ZedGraphSample\bin\Debug\ZedGraph.dll
+D:\Documents\Visual Studio 2015\Projects\_ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\_ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\_ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\_ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\_ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.exe
+D:\Documents\Visual Studio 2015\Projects\_ZedGraphSampleCS_v5.0.9\ZedGraphSample\obj\Debug\ZedGraphSample.pdb

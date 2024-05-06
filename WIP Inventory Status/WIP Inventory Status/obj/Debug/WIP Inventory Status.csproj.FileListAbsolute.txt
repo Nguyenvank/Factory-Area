@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\WIP Inventory Status\WIP Inventory Status\bin\Debug\WIP Inventory Status.exe.config
+d:\documents\visual studio 2015\Projects\WIP Inventory Status\WIP Inventory Status\bin\Debug\WIP Inventory Status.exe
+d:\documents\visual studio 2015\Projects\WIP Inventory Status\WIP Inventory Status\bin\Debug\WIP Inventory Status.pdb
+d:\documents\visual studio 2015\Projects\WIP Inventory Status\WIP Inventory Status\obj\Debug\WIP Inventory Status.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\WIP Inventory Status\WIP Inventory Status\obj\Debug\Inventory_Data.frmInventoryStatusWIP.resources
+d:\documents\visual studio 2015\Projects\WIP Inventory Status\WIP Inventory Status\obj\Debug\WIP_Inventory_Status.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\WIP Inventory Status\WIP Inventory Status\obj\Debug\WIP Inventory Status.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\WIP Inventory Status\WIP Inventory Status\obj\Debug\WIP Inventory Status.exe
+d:\documents\visual studio 2015\Projects\WIP Inventory Status\WIP Inventory Status\obj\Debug\WIP Inventory Status.pdb

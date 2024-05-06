@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\bin\Debug\Inventory Scan WIP.exe.config
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\bin\Debug\Inventory Scan WIP.exe
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\bin\Debug\Inventory Scan WIP.pdb
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory Scan WIP.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory_Data.frmInventoryScanInWIP.resources
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory_Scan_WIP.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory Scan WIP.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory Scan WIP.exe
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory Scan WIP.pdb
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory Scan WIP.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory Scan WIP.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory Scan WIP.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Inventory Scan WIP\Inventory Scan WIP\obj\Debug\Inventory_Data.frmInventoryScanInWIP_V1o1.resources

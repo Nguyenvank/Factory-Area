@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ScannerSample_Step4", "ScannerSample_Step4.vbproj", "{B2BC8573-4756-4B3A-8BC2-B89289742B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BC8573-4756-4B3A-8BC2-B89289742B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BC8573-4756-4B3A-8BC2-B89289742B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BC8573-4756-4B3A-8BC2-B89289742B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BC8573-4756-4B3A-8BC2-B89289742B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

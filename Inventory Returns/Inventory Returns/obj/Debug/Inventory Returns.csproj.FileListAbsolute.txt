@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\bin\Debug\Inventory Returns.exe.config
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\bin\Debug\Inventory Returns.exe
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\bin\Debug\Inventory Returns.pdb
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\obj\Debug\Inventory Returns.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\obj\Debug\Inventory Returns.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\obj\Debug\Inventory_Returns.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\obj\Debug\Inventory_Data.frmFinishGoodReturn.resources
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\obj\Debug\Inventory_Returns.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\obj\Debug\Inventory Returns.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\obj\Debug\Inventory Returns.exe
+D:\Documents\Visual Studio 2015\Projects\Inventory Returns\Inventory Returns\obj\Debug\Inventory Returns.pdb

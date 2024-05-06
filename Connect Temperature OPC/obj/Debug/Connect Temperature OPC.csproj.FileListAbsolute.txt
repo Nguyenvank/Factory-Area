@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Fan_1.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Connect Temperature OPC.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Connect Temperature OPC.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Temperature Data from PLC.exe
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Temperature Data from PLC.pdb
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\bin\Debug\Temperature Data from PLC.exe.config
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\bin\Debug\Temperature Data from PLC.exe
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\bin\Debug\Temperature Data from PLC.pdb
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Fan_1.frmTempFromPLC_R.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Fan_1.frmTempFromPLC_R_V1o2.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Fan_1.frmTempFromPLC_R_V1o3.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Fan_1.frmTempFromPLC_R_V1o4.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Temperature OPC\obj\Debug\Connect Temperature OPC.csproj.AssemblyReference.cache

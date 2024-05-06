@@ -1,0 +1,309 @@
+                  EPSON OPOS ADK for .NET Version 1.14.13
+               Supported Devices and Confirmed Firmware versions
+                                                       Seiko Epson Corporation
+                                                                  Jan 31, 2020
+
+    In this release, the following devices are supported. If the model has a 
+    confirmed version shown, it is recommended that you use that version of 
+    the firmware.
+    Use the indicated firmware version or newer.  Although it will work with 
+    an earlier version, use the indicated version (or newer) if you experience 
+    any difficulties.
+    The symbols used in the I/F (interface) column in the following table are:
+    S = Serial, P = Parallel, U = USB, E = Ethernet (including wireless), 
+    B = Bluetooth.
+    
+    Notes:
+    [1] Ethernet is supported only Wired Network.
+  
+POSPrinter                                          Confirmed Firmware version
+[New in this version]
+    TM-m30II                (I/F: U)                              Ver 02.00
+                                                                  Ver 03.00 (TM-m30II-H)
+    TM-m30II                (I/F: E)                              Ver 02.00
+                                                                  Ver 03.00 (TM-m30II-H)
+    TM-m30II                (I/F: B)                              Ver 02.00 
+                                                                  Ver 03.00 (TM-m30II-H)
+
+[Other currently supported devices]
+    [ANK models]
+    TM-H5000II               (I/F: S, P, U, E)                    Ver 5.08
+    TM-H5200                 (I/F: S, P, U, E)                    Ver 1.04
+    TM-H6000III              (I/F: S, P, U, E)                    Ver 10.01
+    TM-H6000III Validation   (I/F: S, P, U, E)                    Ver 11.00
+    TM-H6000III 256 support  (I/F: S, P, U, E)                    Ver 12.01
+    TM-H6000III Photo-ID     (I/F: S, P, U, E)                    Ver 12.01
+    TM-H6000IV               (I/F: S, P, U, E)                    Ver 20.00
+    TM-H6000IV Validation    (I/F: S, P, U, E)                    Ver 21.00
+    TM-H6000V                (I/F: S, P, U, E, B)                 Ver 30.00
+    TM-H6000V Validation     (I/F: S, P, U, E, B)                 Ver 30.00
+    TM-H2000                 (I/F: S, P, U, E)                    Ver 1.00
+    TM-J7000/7100            (I/F: S, P, U, E)                    Ver 1.03
+    TM-J7500/7600            (I/F: S, P, U, E)                    Ver 1.02
+    TM-J7200                 (I/F: U, E)                          Ver 10.00
+    TM-J7700                 (I/F: U, E)                          Ver 10.00
+    TM-T90                   (I/F: S, P, U, E)                    Ver 1.09
+    TM-L90                   (I/F: S, P, U, E)                    Ver 1.07
+                                                                  Ver 3.00
+    TM-L90LinerFree          (I/F: S, P, U, E)                    Ver 1.00
+                                                                  Ver 3.02 NL
+                                                                  Ver 3.00 NLT
+    TM-L90Peeler             (I/F: S, P, U, E)                    Ver 1.00
+    TM-m10                   (I/F: U)                             Ver 1.00
+    TM-m10                   (I/F: E)                             Ver 1.30
+    TM-m10                   (I/F: B)                             Ver 1.20
+    TM-m30                   (I/F: U)                             Ver 1.00
+    TM-m30                   (I/F: E)                             Ver 1.00
+    TM-m30                   (I/F: B)                             Ver 1.00
+    TM-T82II                 (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82II-42C             (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82II                 (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82II-42C             (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82III                (I/F: S, P, U)                       Ver 20.00
+    TM-T82III                (I/F: E)                             Ver 25.00
+    TM-T82III-42C            (I/F: S, P, U)                       Ver 20.00
+    TM-T82III-42C            (I/F: E)                             Ver 25.00
+    TM-T82IIIL               (I/F: S, U)                          Ver 10.00
+    TM-T82IIIL               (I/F: E)                             Ver 13.00
+    TM-T88III 80mm           (I/F: S, P, U, E)                    Ver 7.03
+    TM-T88III 58mm           (I/F: S, P, U, E)                    Ver 7.04
+    TM-T88IV                 (I/F: S, P, U, E)                    Ver 10.02
+    TM-T88V                  (I/F: S, P, U, E, B)                 Ver 30.12
+    TM-T88VI                 (I/F: S, P, U, E, B)                 Ver 40.00
+    TM-T20                   (I/F: S, U)                          Ver 1.00
+    TM-T20-42C               (I/F: S, U)                          Ver 1.00
+    TM-T20                   (I/F: E)                             Ver 2.00
+    TM-T20-42C               (I/F: E)                             Ver 2.00
+    TM-T20II                 (I/F: S, U, E, B)                    Ver 5.00 [1]
+                             (I/F: U, E)                          Ver 6.00
+    TM-T20II-42C             (I/F: S, U, E, B)                    Ver 5.00 [1]
+                             (I/F: U, E)                          Ver 6.00
+    TM-T20III                (I/F: S, U, B)                       Ver 20.00
+    TM-T20III                (I/F: E)                             Ver 25.00
+    TM-T20III-42C            (I/F: S, U, B)                       Ver 20.00
+    TM-T20III-42C            (I/F: E)                             Ver 25.00
+    TM-T20IIIL               (I/F: S, U)                          Ver 10.00
+    TM-T20IIIL               (I/F: E)                             Ver 13.00
+    TM-T20X                  (I/F: S, U)                          Ver 10.00
+    TM-T20X                  (I/F: E)                             Ver 13.00
+    TM-T70                   (I/F: S, P, U, E)                    Ver 1.00
+    TM-T70II                 (I/F: S, P, U, E, B)                 Ver 5.00
+    TM-P20                   (I/F: U, E, B)                       Ver 1.00
+    TM-P60                   (I/F: S, E)                          Ver 1.00
+    TM-P60II                 (I/F: U, E, B)                       Ver 1.00
+    TM-P60IIPEELER           (I/F: U, E, B)                       Ver 1.00
+    TM-P80                   (I/F: U, E, B)                       Ver 1.00
+    TM-P80-42C               (I/F: U, E, B)                       Ver 1.00
+    TM-U220A/B/D             (I/F: S, P, U, E)                    Ver 3.10
+    TM-U230                  (I/F: S, U, E)                       Ver 1.02
+    TM-U230                  (I/F: P)                             Ver 1.03
+    TM-U675                  (I/F: S, P, U, E)                    Ver 1.35
+    TM-U950                  (I/F: S, P)                          Ver 1.08
+    TM-U950 w/MICR           (I/F: S, P)                          Ver 1.09
+    TM-U950                  (I/F: U)                             Ver 1.02
+
+    Note: The TM-H5200 is a product for the American market.
+
+    [Simplified Chinese(GB18030) models]
+    TM-T81                   (I/F: S, P, U, E)                    Ver 2.00
+    TM-T81II                 (I/F: S, U)                          Ver 6.00
+    TM-T81II                 (I/F: E)                             Ver 7.00
+    TM-T81II-42C             (I/F: U)                             Ver 6.05
+    TM-T81II-42C             (I/F: E)                             Ver 7.03
+    TM-T81III                (I/F: S, U)                          Ver 10.00
+    TM-T81III                (I/F: E)                             Ver 13.00
+    TM-T82                   (I/F: S, U)                          Ver 1.00
+    TM-T82                   (I/F: E)                             Ver 2.00
+    TM-T82                   (I/F: P)                             Ver 6.00
+    TM-T82-42C               (I/F: S, U)                          Ver 1.00
+    TM-T82-42C               (I/F: E)                             Ver 2.00
+    TM-T82-42C               (I/F: P)                             Ver 6.00
+    TM-T82II                 (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82II-42C             (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82III                (I/F: S, P, U)                       Ver 20.00
+    TM-T82III                (I/F: E)                             Ver 25.00
+    TM-T82III-42C            (I/F: S, P, U)                       Ver 20.00
+    TM-T82III-42C            (I/F: E)                             Ver 25.00
+    TM-T82X                  (I/F: S, U)                          Ver 10.00
+    TM-T82X                  (I/F: E)                             Ver 13.00
+    TM-T83III                (I/F: S, U)                          Ver 10.00
+    TM-T83III                (I/F: E)                             Ver 13.00
+    TM-T100                  (I/F: S, U)                          Ver 10.00
+    TM-T100                  (I/F: E)                             Ver 13.00
+
+    [Traditional Chinese models]
+    TM-T82II                 (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82II-42C             (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82X                  (I/F: S, U)                          Ver 10.00
+    TM-T82X                  (I/F: E)                             Ver 13.00
+
+    [South Asia models]
+    TM-T81                   (I/F: S, P, U, E)                    Ver 2.00
+    TM-T81III                (I/F: S, U)                          Ver 10.00
+    TM-T81III                (I/F: E)                             Ver 13.00
+    TM-T82                   (I/F: S, U)                          Ver 1.00
+    TM-T82                   (I/F: E)                             Ver 2.00
+    TM-T82                   (I/F: P)                             Ver 6.00
+    TM-T82-42C               (I/F: S, U)                          Ver 1.00
+    TM-T82-42C               (I/F: E)                             Ver 2.00
+    TM-T82-42C               (I/F: P)                             Ver 6.00
+    TM-T82II                 (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82II-42C             (I/F: S, P, U, E)                    Ver 5.00
+                             (I/F: U, E)                          Ver 6.00
+    TM-T82III                (I/F: S, P, U)                       Ver 20.00
+    TM-T82III                (I/F: E)                             Ver 25.00
+    TM-T82III-42C            (I/F: S, P, U)                       Ver 20.00
+    TM-T82III-42C            (I/F: E)                             Ver 25.00
+    TM-T82X                  (I/F: S, U)                          Ver 10.00
+    TM-T82X                  (I/F: E)                             Ver 13.00
+    TM-T83III                (I/F: S, U)                          Ver 10.00
+    TM-T83III                (I/F: E)                             Ver 13.00
+
+    [Japanese language models]
+    TM-H5000II               (I/F: S, P, U, E)                    Ver 3.49
+    TM-H6000III              (I/F: S, P, U, E)                    Ver 10.01
+    TM-H6000IV               (I/F: S, P, U, E)                    Ver 20.00
+    TM-T90                   (I/F: S, P, U, E)                    Ver 1.08
+    TM-T90II                 (I/F: S, P, U, E)                    Ver 5.00
+    TM-L90                   (I/F: S, P, U, E)                    Ver 1.06
+                                                                  Ver 3.00
+    TM-L90Peeler             (I/F: S, P, U, E)                    Ver 1.00
+    TM-T88III 80mm           (I/F: S, P, U, E)                    Ver 7.05
+    TM-T88III 58mm           (I/F: S, P, U, E)                    Ver 7.05
+    TM-T88IV                 (I/F: S, P, U, E)                    Ver 10.02
+    TM-T88V                  (I/F: S, P, U, E, B)                 Ver 30.12
+    TM-T20                   (I/F: U)                             Ver 1.01
+    TM-T20-42C               (I/F: U)                             Ver 1.01
+    TM-T70                   (I/F: S, P, U, E)                    Ver 1.00
+    TM-T70II                 (I/F: S, P, U, E, B)                 Ver 5.00
+    TM-T20II                 (I/F: S, U, E, B)                    Ver 5.00 [1]
+                             (I/F: U, E)                          Ver 6.00
+    TM-T20II-42C             (I/F: S, U, E, B)                    Ver 5.00 [1]
+                             (I/F: U, E)                          Ver 6.00
+    TM-T20III                (I/F: S, U, B)                       Ver 20.00
+    TM-T20III                (I/F: E)                             Ver 25.00
+    TM-T20III-42C            (I/F: S, U, B)                       Ver 20.00
+    TM-T20III-42C            (I/F: E)                             Ver 25.00
+    TM-P20                   (I/F: U, E, B)                       Ver 1.00
+    TM-P60                   (I/F: S, E)                          Ver 2.00
+    TM-P60IIPEELER           (I/F: U, E, B)                       Ver 1.00
+    TM-P80                   (I/F: U, E, B)                       Ver 2.04
+    TM-P80-42C               (I/F: U, E, B)                       Ver 2.04
+    TM-U220A/B/D             (I/F: S, P, U, E)                    Ver 3.10
+    TM-U675                  (I/F: S, P, U, E)                    Ver 1.35
+    TM-U950                  (I/F: S)                             Ver 1.04
+    TM-U950                  (I/F: P)                             Ver 1.03
+
+
+LineDisplay                                          Confirmed Firmware version
+[New in this version]
+ -
+
+[Other currently supported devices]
+    DM-D110                 (I/F: S, U)                           Ver 1.01
+                            (I/F: S, U, P, E, B)                  ROM-T1586A79
+    DM-D210                 (I/F: S, U)                           Ver 1.01
+                            (I/F: S, U, P, E, B)                  ROM-T1586A72
+    DM-D30                  (I/F: S, U, P, E, B)                  ROM-T1659A70
+    DM-D500                 (I/F: S, U)                           Ver 1.10
+
+
+CashDrawer
+[New in this version]
+ -
+
+[Other currently supported devices]
+    Standard                 (I/F: S, P, U, E ,B)
+
+
+MICR (magnetic ink reader)                           Confirmed Firmware version
+[New in this version]
+ -
+
+[Other currently supported devices]
+    TM-H5000II               (I/F: S, P, U, E)                    Ver 5.08
+    TM-H5200                 (I/F: S, P, U, E)                    Ver 1.04
+    TM-H6000III              (I/F: S, P, U, E)                    Ver 10.01
+    TM-H6000III Validation   (I/F: S, P, U, E)                    Ver 11.00
+    TM-H6000III 256 support  (I/F: S, P, U, E)                    Ver 12.01
+    TM-H6000III Photo-ID     (I/F: S, P, U, E)                    Ver 12.01
+    TM-H6000IV               (I/F: S, P, U, E)                    Ver 20.00
+    TM-H6000IV Validation    (I/F: S, P, U, E)                    Ver 21.00
+    TM-H6000V                (I/F: S, P, U, E, B)                 Ver 30.00
+    TM-H6000V Validation     (I/F: S, P, U, E, B)                 Ver 30.00
+    TM-H2000                 (I/F: S, P, U, E)                    Ver 1.00
+    TM-J7000/7100            (I/F: S, P, U, E)                    Ver 1.03
+    TM-U675                  (I/F: S, P, U, E)                    Ver 1.35
+    TM-U950                  (I/F: S)                             Ver 1.09
+
+    Note: The TM-H5200 is a product for the American market.
+
+
+CheckScanner                                         Confirmed Firmware version
+[New in this version]
+ -
+
+[Other currently supported devices]
+    TM-H6000III 256 support  (I/F: S, P, U, E)                    Ver 12.01
+    TM-H6000III Photo-ID     (I/F: S, P, U, E)                    Ver 12.01
+
+
+ElectronicJournal                                    Confirmed Firmware version
+[New in this version]
+ -
+
+[Other currently supported devices]
+    [ANK models]
+    TM-H6000III              (I/F: S, P, U, E)                    Ver 10.01
+    TM-H6000III Validation   (I/F: S, P, U, E)                    Ver 11.00
+    TM-H6000III 256 support  (I/F: S, P, U, E)                    Ver 12.01
+    TM-H6000III Photo-ID     (I/F: S, P, U, E)                    Ver 12.01
+    TM-H6000IV               (I/F: S, P, U, E)                    Ver 20.00
+    TM-H6000IV Validation    (I/F: S, P, U, E)                    Ver 21.00
+    TM-H6000V                (I/F: S, P, U, E)                    Ver 30.00
+    TM-H6000V Validation     (I/F: S, P, U, E)                    Ver 30.00
+    TM-T88IV                 (I/F: S, P, U, E)                    Ver 10.02
+    TM-T88V                  (I/F: S, P, U, E)                    Ver 30.12
+    TM-T88VI                 (I/F: S, P, U, E)                    Ver 40.00
+    TM-T20                   (I/F: S, U)                          Ver 1.00
+    TM-T20                   (I/F: E)                             Ver 2.00
+    TM-T20-42C               (I/F: S, U)                          Ver 1.00
+    TM-T20-42C               (I/F: E)                             Ver 2.00
+    TM-T20II                 (I/F: S, U, E)                       Ver 5.00 [1]
+                             (I/F: U, E)                          Ver 6.00
+    TM-T20II-42C             (I/F: S, U, E)                       Ver 5.00 [1]
+                             (I/F: U, E)                          Ver 6.00
+    TM-T20IIIL               (I/F: S, U)                          Ver 10.00
+    TM-T20IIIL               (I/F: E)                             Ver 13.00
+    TM-T20X                  (I/F: S, U)                          Ver 10.00
+    TM-T20X                  (I/F: E)                             Ver 13.00
+
+    [Japanese language models]
+    TM-H6000III              (I/F: S, P, U, E)                    Ver 10.01
+    TM-H6000IV               (I/F: S, P, U, E)                    Ver 20.00
+    TM-T88IV                 (I/F: S, P, U, E)                    Ver 10.02
+    TM-T88V                  (I/F: S, P, U, E)                    Ver 30.12
+    TM-T20                   (I/F: U)                             Ver 1.01
+    TM-T20-42C               (I/F: U)                             Ver 1.01
+    TM-T20II                 (I/F: S, U, E)                       Ver 5.00 [1]
+                             (I/F: U, E)                          Ver 6.00
+    TM-T20II-42C             (I/F: S, U, E)                       Ver 5.00 [1]
+                             (I/F: U, E)                          Ver 6.00
+    TM-T20III                (I/F: S, U)                          Ver 20.00
+    TM-T20III                (I/F: E)                             Ver 25.00
+    TM-T20III-42C            (I/F: S, U)                          Ver 20.00
+    TM-T20III-42C            (I/F: E)                             Ver 25.00
+    TM-T20X                  (I/F:S,U)                            Ver 10.011
+    TM-T20X-42C              (I/F:S,U)                            Ver 10.011
+    TM-T20X                  (I/F:E)                              Ver 13.021
+    TM-T20X-42C              (I/F:E)                              Ver 13.021
+

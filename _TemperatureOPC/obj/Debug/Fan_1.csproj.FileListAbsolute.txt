@@ -1,0 +1,43 @@
+E:\18. Learn VS2015\Fan_1\Fan_1\bin\Debug\Fan_1.exe.config
+E:\18. Learn VS2015\Fan_1\Fan_1\bin\Debug\Fan_1.exe
+E:\18. Learn VS2015\Fan_1\Fan_1\bin\Debug\Fan_1.pdb
+E:\18. Learn VS2015\Fan_1\Fan_1\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\18. Learn VS2015\Fan_1\Fan_1\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\18. Learn VS2015\Fan_1\Fan_1\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\18. Learn VS2015\Fan_1\Fan_1\obj\Debug\Fan_1.Form1.resources
+E:\18. Learn VS2015\Fan_1\Fan_1\obj\Debug\Fan_1.Form2.resources
+E:\18. Learn VS2015\Fan_1\Fan_1\obj\Debug\Fan_1.Form3.resources
+E:\18. Learn VS2015\Fan_1\Fan_1\obj\Debug\Fan_1.Properties.Resources.resources
+E:\18. Learn VS2015\Fan_1\Fan_1\obj\Debug\Fan_1.csproj.GenerateResource.Cache
+E:\18. Learn VS2015\Fan_1\Fan_1\obj\Debug\Fan_1.exe
+E:\18. Learn VS2015\Fan_1\Fan_1\obj\Debug\Fan_1.pdb
+E:\18. Learn VS2015\Fan_1\Fan_1\obj\Debug\Fan_1.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\bin\Debug\Data From OPC.exe.config
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\bin\Debug\Data From OPC.exe
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\bin\Debug\Data From OPC.pdb
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\obj\Debug\Fan_1.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\obj\Debug\Fan_1.Form2.resources
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\obj\Debug\Fan_1.Form3.resources
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\obj\Debug\Fan_1.frmAssyFromPLC.resources
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\obj\Debug\Fan_1.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\obj\Debug\Fan_1.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\obj\Debug\Data From OPC.exe
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\obj\Debug\Data From OPC.pdb
+D:\Documents\Visual Studio 2015\Projects\_ConnectOPC\obj\Debug\Fan_1.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\Data From OPC.exe.config
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Data From OPC.exe
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Data From OPC.pdb
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.Form2.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.Form3.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.frmAssyFromPLC.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.frmRS485Communication.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\Data From OPC.exe
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\Data From OPC.pdb
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\ZedGraph.dll
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\EasyModbus.dll
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\bin\Debug\Release Notes.txt
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe.manifest
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.application
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.pdb
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.dll
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.pdb
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.TestApp.resources
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe.manifest
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.application
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.pdb

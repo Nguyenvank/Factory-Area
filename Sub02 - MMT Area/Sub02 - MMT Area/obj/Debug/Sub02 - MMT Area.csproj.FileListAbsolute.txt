@@ -1,0 +1,13 @@
+d:\documents\visual studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\bin\Debug\Sub02 - MMT Area.exe.config
+d:\documents\visual studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\bin\Debug\Sub02 - MMT Area.exe
+d:\documents\visual studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\bin\Debug\Sub02 - MMT Area.pdb
+d:\documents\visual studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Sub02 - MMT Area.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Inventory_Data.frmSub02ScanInMaterial.resources
+d:\documents\visual studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Inventory_Data.frmSub04ScanOutMaterial.resources
+d:\documents\visual studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Sub02 - MMT Area.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Sub02 - MMT Area.exe
+d:\documents\visual studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Sub02 - MMT Area.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Inventory_Data.frmSub02ScanInMaterial_ViewImage.resources
+D:\Documents\Visual Studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Inventory_Data.frmSub04ScanOutMaterial_PrintBill.resources
+D:\Documents\Visual Studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Inventory_Data.frmSub04ScanOutMaterial_ViewImage.resources
+D:\Documents\Visual Studio 2015\Projects\Sub02 - MMT Area\Sub02 - MMT Area\obj\Debug\Inventory_Data.Properties.Resources.resources

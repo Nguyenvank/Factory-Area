@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\bin\Debug\Barcode In-Stock.exe.config
+d:\documents\visual studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\bin\Debug\Barcode In-Stock.exe
+d:\documents\visual studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\bin\Debug\Barcode In-Stock.pdb
+d:\documents\visual studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\obj\Debug\Inventory_Data.frmInventoryInStock.resources
+d:\documents\visual studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\obj\Debug\Barcode_In_Stock.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\obj\Debug\Barcode In-Stock.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\obj\Debug\Barcode In-Stock.exe
+d:\documents\visual studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\obj\Debug\Barcode In-Stock.pdb
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\obj\Debug\Barcode In-Stock.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\obj\Debug\Barcode_In_Stock.frmCheckProof.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock\Barcode In-Stock\obj\Debug\Barcode In-Stock.csproj.CoreCompileInputs.cache

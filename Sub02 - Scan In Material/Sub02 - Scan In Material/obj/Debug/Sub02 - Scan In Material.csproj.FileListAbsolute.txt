@@ -1,0 +1,16 @@
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Sub02 - Scan In Material.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Inventory_Data.frmSub02ScanInMaterial.resources
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Inventory_Data.frmSub02ScanInMaterial_ViewImage.resources
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Inventory_Data.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Sub02 - Scan In Material.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\bin\Debug\Sub02 - Scan In Material.exe.config
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\bin\Debug\Sub02 - Scan In Material.exe
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\bin\Debug\Sub02 - Scan In Material.pdb
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Sub02 - Scan In Material.exe
+d:\documents\visual studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Sub02 - Scan In Material.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Sub02 - Scan In Material.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Sub02 - Scan In Material.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Sub02 - Scan In Material.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Sub02 - Scan In Material\Sub02 - Scan In Material\obj\Debug\Inventory_Data.frmSub02ScanInMaterial_LocateCreate.resources

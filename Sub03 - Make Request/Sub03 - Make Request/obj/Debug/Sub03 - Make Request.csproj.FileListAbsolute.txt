@@ -1,0 +1,12 @@
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\bin\Debug\Sub03 - Make Request.exe.config
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\bin\Debug\Sub03 - Make Request.exe
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\bin\Debug\Sub03 - Make Request.pdb
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\obj\Debug\Sub03 - Make Request.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\obj\Debug\Inventory_Data.frmSub03MakeRequest.resources
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\obj\Debug\Inventory_Data.frmSub03MakeRequest_ViewImage.resources
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\obj\Debug\Inventory_Data.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\obj\Debug\Sub03 - Make Request.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\obj\Debug\Sub03 - Make Request.exe
+d:\documents\visual studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\obj\Debug\Sub03 - Make Request.pdb
+D:\Documents\Visual Studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\obj\Debug\Sub03 - Make Request.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Sub03 - Make Request\Sub03 - Make Request\obj\Debug\Sub03 - Make Request.csproj.CoreCompileInputs.cache

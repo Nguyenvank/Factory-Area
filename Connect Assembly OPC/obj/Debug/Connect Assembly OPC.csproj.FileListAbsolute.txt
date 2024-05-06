@@ -1,0 +1,21 @@
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\bin\Debug\Assembly Data from PLC.exe.config
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\bin\Debug\Assembly Data from PLC.exe
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\bin\Debug\Assembly Data from PLC.pdb
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Fan_1.frmAssyFromPLC_v2o3.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Fan_1.frmAssyFromPLC_v2o2.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Fan_1.frmAssyFromPLC_v2o1.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Fan_1.frmAssyFromPLC_v2o0.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Fan_1.frmAssyFromPLC.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Fan_1.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Connect Assembly OPC.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Connect Assembly OPC.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Assembly Data from PLC.exe
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Assembly Data from PLC.pdb
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Fan_1.frmAssyFromPLC_v2o4.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Connect Assembly OPC.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Connect Assembly OPC.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\obj\Debug\Fan_1.frm_Assy_From_PLC_v3o0.resources
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\bin\Debug\S7.Net.dll
+D:\Documents\Visual Studio 2015\Projects\Connect Assembly OPC\bin\Debug\S7.Net.xml

@@ -1,0 +1,10 @@
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\bin\Debug\SubMaterial 01 - Create Material.exe.config
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\bin\Debug\SubMaterial 01 - Create Material.exe
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\bin\Debug\SubMaterial 01 - Create Material.pdb
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\obj\Debug\SubMaterial 01 - Create Material.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\obj\Debug\Inventory_Data.frmSub01CreateMaterial.resources
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\obj\Debug\Inventory_Data.frmSub01CreateMaterial_HandOverPrint.resources
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\obj\Debug\SubMaterial_01___Create_Material.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\obj\Debug\SubMaterial 01 - Create Material.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\obj\Debug\SubMaterial 01 - Create Material.exe
+d:\documents\visual studio 2015\Projects\SubMaterial 01 - Create Material\SubMaterial 01 - Create Material\obj\Debug\SubMaterial 01 - Create Material.pdb

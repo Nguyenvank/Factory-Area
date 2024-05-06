@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\Delivery Stock Quantity\Delivery Stock Quantity\bin\Debug\Delivery Stock Quantity.exe.config
+d:\documents\visual studio 2015\Projects\Delivery Stock Quantity\Delivery Stock Quantity\bin\Debug\Delivery Stock Quantity.exe
+d:\documents\visual studio 2015\Projects\Delivery Stock Quantity\Delivery Stock Quantity\bin\Debug\Delivery Stock Quantity.pdb
+d:\documents\visual studio 2015\Projects\Delivery Stock Quantity\Delivery Stock Quantity\obj\Debug\Inventory_Data.frmDeliveryQuantityStock.resources
+d:\documents\visual studio 2015\Projects\Delivery Stock Quantity\Delivery Stock Quantity\obj\Debug\Delivery_Stock_Quantity.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Delivery Stock Quantity\Delivery Stock Quantity\obj\Debug\Delivery Stock Quantity.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Delivery Stock Quantity\Delivery Stock Quantity\obj\Debug\Delivery Stock Quantity.exe
+d:\documents\visual studio 2015\Projects\Delivery Stock Quantity\Delivery Stock Quantity\obj\Debug\Delivery Stock Quantity.pdb

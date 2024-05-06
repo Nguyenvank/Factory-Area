@@ -1,0 +1,21 @@
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\bin\Debug\Warehouse HR Material Scan-Out.exe.config
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\bin\Debug\Warehouse HR Material Scan-Out.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\bin\Debug\Warehouse HR Material Scan-Out.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.frmWarehouseMaterialScanOut.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse_HR_Material_Scan_Out.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\bin\Debug\Warehouse HR Material Scan-Out.exe.config
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\bin\Debug\Warehouse HR Material Scan-Out.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\bin\Debug\Warehouse HR Material Scan-Out.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\obj\Debug\Inventory_Data.frmWarehouseMaterialScanOut.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\obj\Debug\Warehouse_HR_Material_Scan_Out.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse HR Material Scan-Out\Warehouse HR Material Scan-Out\obj\Debug\Warehouse HR Material Scan-Out.csproj.CoreCompileInputs.cache

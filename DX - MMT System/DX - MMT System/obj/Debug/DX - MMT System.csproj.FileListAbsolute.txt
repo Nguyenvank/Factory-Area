@@ -1,0 +1,53 @@
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DX - MMT System.exe
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DX - MMT System.pdb
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Data.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Images.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Utils.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.XtraBars.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Data.v18.1.xml
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Utils.v18.1.xml
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.XtraBars.v18.1.xml
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\obj\Debug\DX___MMT_System.Form1.resources
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\obj\Debug\DX___MMT_System.Properties.Resources.resources
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\obj\Debug\DX___MMT_System.ucInventSub.resources
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\obj\Debug\DX - MMT System.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\obj\Debug\DX - MMT System.exe.licenses
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\obj\Debug\DX - MMT System.exe
+d:\Documents\Visual Studio 2015\Projects\DX - MMT System\DX - MMT System\obj\Debug\DX - MMT System.pdb

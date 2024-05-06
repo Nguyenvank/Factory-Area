@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\bin\Debug\FirstStep.exe
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\bin\Debug\FirstStep.pdb
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\bin\Debug\Microsoft.PointOfService.dll
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\bin\Debug\Microsoft.PointOfService.xml
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\obj\Debug\FirstStep.FrameFirstStep.resources
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\obj\Debug\FirstStep.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\obj\Debug\FirstStep.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\obj\Debug\FirstStep.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\obj\Debug\FirstStep.exe
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\obj\Debug\FirstStep.pdb
+D:\Documents\Visual Studio 2015\Projects\OPOS for .NET\Samples\CSharp\FirstStep\obj\Debug\FirstStep.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\Warehouse Status Monitoring\Warehouse Status Monitoring\bin\Debug\Warehouse Status Monitoring.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Status Monitoring\Warehouse Status Monitoring\bin\Debug\Warehouse Status Monitoring.exe
+d:\documents\visual studio 2015\Projects\Warehouse Status Monitoring\Warehouse Status Monitoring\bin\Debug\Warehouse Status Monitoring.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Status Monitoring\Warehouse Status Monitoring\obj\Debug\Inventory_Data.frmWarehouseStatusMonitoring.resources
+d:\documents\visual studio 2015\Projects\Warehouse Status Monitoring\Warehouse Status Monitoring\obj\Debug\Warehouse_Status_Monitoring.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse Status Monitoring\Warehouse Status Monitoring\obj\Debug\Warehouse Status Monitoring.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Status Monitoring\Warehouse Status Monitoring\obj\Debug\Warehouse Status Monitoring.exe
+d:\documents\visual studio 2015\Projects\Warehouse Status Monitoring\Warehouse Status Monitoring\obj\Debug\Warehouse Status Monitoring.pdb

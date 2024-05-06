@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\Warehouse FG Inventory Counting\Warehouse FG Inventory Counting\bin\Debug\Warehouse FG Inventory Counting.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse FG Inventory Counting\Warehouse FG Inventory Counting\bin\Debug\Warehouse FG Inventory Counting.exe
+d:\documents\visual studio 2015\Projects\Warehouse FG Inventory Counting\Warehouse FG Inventory Counting\bin\Debug\Warehouse FG Inventory Counting.pdb
+d:\documents\visual studio 2015\Projects\Warehouse FG Inventory Counting\Warehouse FG Inventory Counting\obj\Debug\Inventory_Data.frmWareshouseInventoryCounting.resources
+d:\documents\visual studio 2015\Projects\Warehouse FG Inventory Counting\Warehouse FG Inventory Counting\obj\Debug\Warehouse_FG_Inventory_Counting.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse FG Inventory Counting\Warehouse FG Inventory Counting\obj\Debug\Warehouse FG Inventory Counting.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse FG Inventory Counting\Warehouse FG Inventory Counting\obj\Debug\Warehouse FG Inventory Counting.exe
+d:\documents\visual studio 2015\Projects\Warehouse FG Inventory Counting\Warehouse FG Inventory Counting\obj\Debug\Warehouse FG Inventory Counting.pdb

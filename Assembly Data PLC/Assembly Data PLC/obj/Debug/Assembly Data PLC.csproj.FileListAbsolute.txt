@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\Assembly Data PLC\Assembly Data PLC\bin\Debug\Assembly Data PLC.exe.config
+d:\documents\visual studio 2015\Projects\Assembly Data PLC\Assembly Data PLC\bin\Debug\Assembly Data PLC.exe
+d:\documents\visual studio 2015\Projects\Assembly Data PLC\Assembly Data PLC\bin\Debug\Assembly Data PLC.pdb
+d:\documents\visual studio 2015\Projects\Assembly Data PLC\Assembly Data PLC\obj\Debug\Inventory_Data.frmDataPLC.resources
+d:\documents\visual studio 2015\Projects\Assembly Data PLC\Assembly Data PLC\obj\Debug\Assembly_Data_PLC.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Assembly Data PLC\Assembly Data PLC\obj\Debug\Assembly Data PLC.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Assembly Data PLC\Assembly Data PLC\obj\Debug\Assembly Data PLC.exe
+d:\documents\visual studio 2015\Projects\Assembly Data PLC\Assembly Data PLC\obj\Debug\Assembly Data PLC.pdb

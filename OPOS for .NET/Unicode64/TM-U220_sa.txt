@@ -1,0 +1,60 @@
+;
+;	TM-U220_sa Device Infomation file
+;
+;	Copyright (c) 2009 SEIKO EPSON Corp. All Rights reserved.
+;
+;	Revision history:
+;	2009-12-04	new
+;
+;
+
+[Common]
+MappingTableNumber=6
+InternalCharacterSetNumber=1
+ICSCommandDefault=0
+DecompositionClassNumber=1160
+GeneralCategorySize=2
+CanonicalCombiningClassSize=1
+BidiClassSize=3
+DecompositionMappingSize=4
+
+;CP437(USA,Standard Europe)
+[Table1]
+CodePage=437
+TableCommandParam=0
+TableFileName=cp437.txt
+
+;KU42(Thai)
+[Table2]
+CodePage=120
+TableCommandParam=20
+TableFileName=ku42.txt
+
+;TIS11(Thai)
+[Table3]
+CodePage=121
+TableCommandParam=21
+TableFileName=tis11.txt
+
+;TIS18(Thai)
+[Table4]
+CodePage=126
+TableCommandParam=26
+TableFileName=tis18.txt
+
+;TCVN-3 page1(Vietnamese)
+[Table5]
+CodePage=130
+TableCommandParam=30
+TableFileName=tcvn-3_1.txt
+
+;TCVN-3 page2(Vietnamese)
+[Table6]
+CodePage=131
+TableCommandParam=31
+TableFileName=tcvn-3_2.txt
+
+;Vietnam
+[ICS1]
+ICSCommandParam=16
+ICSFileName=ICS_Vietnam.txt

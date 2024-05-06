@@ -1,0 +1,28 @@
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\bin\Debug\FMB Tracking System v2.1.exe.config
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\bin\Debug\FMB Tracking System v2.1.exe
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\bin\Debug\FMB Tracking System v2.1.pdb
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB Tracking System v2.1.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\Inventory_Data.frmFMBScanBarcode_v2o4.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\Inventory_Data.frmFMBScanBarcode_v2o3.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\Inventory_Data.frmFMBScanBarcode_v2o2.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\Inventory_Data.frmFMBScanBarcode_v2o1.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.frmFMBScanBarcode_v2o4_CMF.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.frmFMBScanBarcode_v2o3_CMF.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.frmFMBScanBarcode_v2o2_CMF.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB Tracking System v2.1.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB Tracking System v2.1.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB Tracking System v2.1.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB Tracking System v2.1.exe
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB Tracking System v2.1.pdb
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\Inventory_Data.frmFMBScanBarcode_v2o5.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.frmFMBScanBarcode_v2o5_CMF.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.frmFMBScanBarcode_v2o5_NGCart.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB Tracking System v2.1.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\Inventory_Data.frmFMBScanBarcode_v2o6.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.frmFMBScanBarcode_v2o6_CMF.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.frmFMBScanBarcode_v2o6_EPDM50.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.frmFMBScanBarcode_v2o6_NGCart.resources
+D:\Documents\Visual Studio 2015\Projects\FMB Tracking System v2.1\FMB Tracking System v2.1\obj\Debug\FMB_Tracking_System_v2._1.frmFMBScanBarcode_v2o6_Warning_v1o0.resources

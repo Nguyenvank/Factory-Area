@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Inventory Hourly Production\Inventory Hourly Production\bin\Debug\Inventory Hourly Production.exe.config
+d:\documents\visual studio 2015\Projects\Inventory Hourly Production\Inventory Hourly Production\bin\Debug\Inventory Hourly Production.exe
+d:\documents\visual studio 2015\Projects\Inventory Hourly Production\Inventory Hourly Production\bin\Debug\Inventory Hourly Production.pdb
+d:\documents\visual studio 2015\Projects\Inventory Hourly Production\Inventory Hourly Production\obj\Debug\Inventory Hourly Production.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Inventory Hourly Production\Inventory Hourly Production\obj\Debug\Inventory_Data.frmCavityByHours.resources
+d:\documents\visual studio 2015\Projects\Inventory Hourly Production\Inventory Hourly Production\obj\Debug\Inventory_Hourly_Production.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Inventory Hourly Production\Inventory Hourly Production\obj\Debug\Inventory Hourly Production.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Inventory Hourly Production\Inventory Hourly Production\obj\Debug\Inventory Hourly Production.exe
+d:\documents\visual studio 2015\Projects\Inventory Hourly Production\Inventory Hourly Production\obj\Debug\Inventory Hourly Production.pdb

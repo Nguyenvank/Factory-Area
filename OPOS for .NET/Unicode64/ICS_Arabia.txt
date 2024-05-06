@@ -1,0 +1,15 @@
+#
+#	International Character Set(Arabia) Definition file
+#
+#	Copyright (c) 2009 SEIKO EPSON Corp. All Rights reserved.
+#
+#	Revision history:
+#	2009-10-30	new
+#
+#    Format: Three tab-separated columns
+#        Column #1 is the International charcter set(Arabic) code (in hex)
+#        Column #2 is the Unicode (in hex as 0xXXXX)
+#        Column #3 is the Unicode name (follows a comment sign, '#')
+#
+0x25	0x066A	#ARABIC PERCENT SIGN
+0x2A	0x066D	#ARABIC FIVE POINTED STAR

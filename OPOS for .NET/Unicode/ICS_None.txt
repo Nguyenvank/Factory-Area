@@ -1,0 +1,13 @@
+#
+#	International Character Set(None) Definition file
+#
+#	Copyright (c) 2014 SEIKO EPSON Corp. All Rights reserved.
+#
+#	Revision history:
+#	2014-04-08	new
+#
+#    Format: Three tab-separated columns
+#        Column #1 is the International charcter set(Korean) code (in hex)
+#        Column #2 is the Unicode (in hex as 0xXXXX)
+#        Column #3 is the Unicode name (follows a comment sign, '#')
+#

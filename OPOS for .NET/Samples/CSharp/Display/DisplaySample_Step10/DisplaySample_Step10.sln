@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplaySample_Step10", "DisplaySample_Step10.csproj", "{AABB2358-3AE3-4598-97AE-71AC2A99A6AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABB2358-3AE3-4598-97AE-71AC2A99A6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABB2358-3AE3-4598-97AE-71AC2A99A6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABB2358-3AE3-4598-97AE-71AC2A99A6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABB2358-3AE3-4598-97AE-71AC2A99A6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,164 @@
+<html>
+
+<head>
+<title>EPSON OPOS ADK for .NET</title>
+</head>
+
+<body bgcolor="#fefdda" lang=JA link=blue vlink=blue style='tab-interval:42.0pt'>
+
+<div class=Section1>
+
+<h1 align=center style='text-align:center'><a name=Top></a><span lang=EN-US>EPSON
+OPOS ADK for .NET Version 1.14.6 Document</span></h1>
+
+<h2 align=center style='text-align:center'><span lang=EN-US>Operating Guide for
+the Operation Checking Tool</span></h2>
+
+<p><span lang=EN-US style='mso-fareast-font-family:"MS Mincho"'>This document
+applies to EPSON OPOS ADK for .NET Version 1.14.6<o:p></o:p></span></p>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" bgcolor="#ccffcc"
+ style='width:100.0%;background:#CCFFCC;border-collapse:collapse;border:none;
+ mso-border-alt:three-d-emboss windowtext 2.25pt;mso-padding-alt:0mm 0mm 0mm 0mm'
+ id=AutoNumber1 bordercolorlight="#99ff99" bordercolordark="#99ff33" height=23>
+ <tr style='height:17.25pt'>
+  <td width="100%" style='width:100.0%;border:inset #66CCFF .75pt;padding:0mm 0mm 0mm 0mm;
+  height:17.25pt'>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:
+  10.0pt;mso-fareast-font-family:"MS Mincho"'><a href="#Info">Introduction</a>&nbsp;&nbsp;&nbsp;
+  <a href="#Operate">Operating Procedure</a></span><span lang=EN-US
+  style='mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p><a name=Info></a><span lang=EN-US style='font-size:13.5pt;mso-fareast-font-family:
+"MS Mincho"'><br>
+<strong>Introduction</strong></span><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:10.0pt;mso-fareast-font-family:"MS Mincho"'>The
+operation checking tool is a tool for checking whether ServiceObjects are
+registered correctly.<br>
+Use it for checking the operation of ServiceObjects when registering them.</span><span
+lang=EN-US style='mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='mso-fareast-font-family:"MS Mincho"'><br>
+</span><span lang=EN-US style='font-size:10.0pt;mso-fareast-font-family:"MS Mincho"'><a
+href="#Top">Back to the top</a></span><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'><o:p></o:p></span></p>
+
+<p><a name=Operate></a><span lang=EN-US style='font-size:13.5pt;mso-fareast-font-family:
+"MS Mincho"'><br>
+<strong>Operating Procedure&nbsp;&nbsp;&nbsp; </strong></span><span lang=EN-US
+style='mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:10.0pt;mso-fareast-font-family:"MS Mincho"'>Run
+CheckHealth Utility in the EPSON OPOS .NET program group.<br>
+The operation checking tool starts up, and the following screen appears.</span><span
+lang=EN-US style='mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'><img border=0 width=640 height=415 id="_x0000_i1025"
+src=HealthTest.JPG><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='mso-fareast-font-family:"MS Mincho"'>&nbsp;<o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><strong><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'>Device Display tree view</span></strong><span lang=EN-US
+style='mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>Displays a list of ServiceObjects
+registered in SetupPOS Utility.</span><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'><o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>The registered ServiceObjects are
+classified by device category, shown in a tree format.<br>
+The ServiceObjects are shown with the logical device names set in SetupPOS.</span><span
+lang=EN-US style='mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='mso-fareast-font-family:"MS Mincho"'>&nbsp;<o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><strong><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'>CheckHealth button</span></strong><span lang=EN-US
+style='mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>Checks the operation of the ServiceObjects
+selected in the Device Display tree view.</span><span lang=EN-US
+style='mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>If no ServiceObjects are selected in the
+tree view, this button is disabled.<br>
+The operation check of ServiceObjects is performed at the Interactive level of
+the CheckHealth method.</span><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'><o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>Refer to the operation guide for the
+relevant ServiceObjects for the operations of the CheckHealth method.</span><span
+lang=EN-US style='mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p><span lang=EN-US style='mso-fareast-font-family:"MS Mincho"'>&nbsp;<o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><strong><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'>CheckHealthText message box</span></strong><span lang=EN-US
+style='font-size:10.0pt;mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>Displays text indicating the result of the
+operation check.<o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>The text appears after the operation
+check.<br>
+The text shows the contents of the CheckHealthText property.<o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>Refer to the operation guide for the
+relevant ServiceObjects for the text set in the CheckHealthText property.<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='font-size:10.0pt;mso-fareast-font-family:"MS Mincho"'>&nbsp;<o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><strong><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'>Exception Information message area</span></strong><span
+lang=EN-US style='font-size:10.0pt;mso-fareast-font-family:"MS Mincho"'><o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>Displays error information when the
+operation check fails due to causes such as ServiceObject registration errors.<o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>Displays detailed information of
+exceptions that occurred during the operation check.<br>
+Use this for resolving any problems.<o:p></o:p></span></p>
+
+<p style='margin-left:36.0pt'><span lang=EN-US style='font-size:10.0pt;
+mso-fareast-font-family:"MS Mincho"'>Refer to the operation guide for the
+relevant ServiceObjects for the procedure for resolving errors.<o:p></o:p></span></p>
+
+<p><span lang=EN-US style='mso-fareast-font-family:"MS Mincho"'><br>
+</span><span lang=EN-US style='font-size:10.0pt;mso-fareast-font-family:"MS Mincho"'><a
+href="#Top">Back to the top</a></span><span lang=EN-US style='mso-fareast-font-family:
+"MS Mincho"'><o:p></o:p></span></p>
+
+<table border=1 cellspacing=0 cellpadding=0 width="100%" bgcolor="#ccffcc"
+ style='width:100.0%;background:#CCFFCC;border-collapse:collapse;border:none;
+ mso-border-alt:three-d-emboss windowtext 2.25pt;mso-padding-alt:0mm 3.0pt 0mm 3.0pt'
+ id=AutoNumber2 bordercolorlight="#99ff99" bordercolordark="#99ff33">
+ <tr>
+  <td width="100%" style='width:100.0%;border:inset #111111 .75pt;padding:.75pt 3.0pt .75pt 3.0pt'>
+  <p align=center style='text-align:center'><span lang=EN-US style='font-size:
+  10.0pt;mso-fareast-font-family:"MS Mincho"'>Copyright (c) 2005-2017 Seiko Epson
+  Corporation. All right reserved.</span><span lang=EN-US style='mso-fareast-font-family:
+  "MS Mincho"'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\obj\Debug\Warehouse_Inventory_BOM.Form1.resources
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\obj\Debug\Warehouse_Inventory_BOM.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\obj\Debug\Warehouse Inventory BOM.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\obj\Debug\Inventory_Data.frmBOMCalculate.resources
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\obj\Debug\Inventory_Data.frmBOMPlan.resources
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\obj\Debug\Inventory_Data.frmBOMSetting.resources
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\bin\Debug\Warehouse Inventory BOM.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\bin\Debug\Warehouse Inventory BOM.exe
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\bin\Debug\Warehouse Inventory BOM.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\obj\Debug\Warehouse Inventory BOM.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\obj\Debug\Warehouse Inventory BOM.exe
+d:\documents\visual studio 2015\Projects\Warehouse Inventory BOM\Warehouse Inventory BOM\obj\Debug\Warehouse Inventory BOM.pdb

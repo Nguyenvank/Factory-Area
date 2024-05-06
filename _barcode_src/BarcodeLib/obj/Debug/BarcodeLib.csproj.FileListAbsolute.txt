@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLib\bin\Debug\Release Notes.txt
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLib\bin\Debug\BarcodeLib.dll
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLib\bin\Debug\BarcodeLib.pdb
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLib\obj\Debug\BarcodeLib.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLib\obj\Debug\BarcodeLib.dll
+D:\Documents\Visual Studio 2015\Projects\_barcode_src\BarcodeLib\obj\Debug\BarcodeLib.pdb

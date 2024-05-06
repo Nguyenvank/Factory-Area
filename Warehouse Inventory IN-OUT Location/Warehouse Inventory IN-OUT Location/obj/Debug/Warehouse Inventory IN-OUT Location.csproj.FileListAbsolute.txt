@@ -1,0 +1,30 @@
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\bin\Debug\Warehouse Inventory IN-OUT Location.exe.config
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\bin\Debug\Warehouse Inventory IN-OUT Location.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\bin\Debug\Warehouse Inventory IN-OUT Location.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse Inventory IN-OUT Location.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Inventory_Data.frmAutoSwitchTab.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse Inventory IN-OUT Location.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse Inventory IN-OUT Location.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse Inventory IN-OUT Location.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Inventory_Data.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Inventory_Data.frmWarehouseInventoryLocation_v1o0.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Inventory_Data.frmWarehouseInventoryLocation_v1o1.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse Inventory IN-OUT Location.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse Inventory IN-OUT Location.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse Inventory IN-OUT Location.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Inventory_Data.frmWarehouseInventoryLocation_v1o2.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.frmWarehouseInventoryLocation_v2o0.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.frmWarehouseInventoryLocation_v3o0.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.Ctrl.uc_MMT_Warehouse_CKD_Location_v1o0.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.frmWarehouseInventoryLocation_v2o1.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.Ctrl.uc_Warehouse_101_Resin_Layout.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.Ctrl.uc_Warehouse_102_CKD_Layout.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.Ctrl.uc_Warehouse_103_Rubber_Layout.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.frm_Warehouse_Location_v4o0.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.Ctrl.uc_Warehouse_Racks_Locations_Layout.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.Ctrl.uc_Warehouse_Racks_Locations_Layout_Full_Windows.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Warehouse_Inventory_IN_OUT_Location.Ctrl.uc_Warehouse_Racks_Locations_Layout_Same_Details.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory IN-OUT Location\Warehouse Inventory IN-OUT Location\obj\Debug\Inventory_Data.frmWarehouseInventoryLocation_v1o3.resources

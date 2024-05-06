@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Internal Warehouse Scan-Out\Internal Warehouse Scan-Out\bin\Debug\Internal Warehouse Scan-Out.exe.config
+d:\documents\visual studio 2015\Projects\Internal Warehouse Scan-Out\Internal Warehouse Scan-Out\bin\Debug\Internal Warehouse Scan-Out.exe
+d:\documents\visual studio 2015\Projects\Internal Warehouse Scan-Out\Internal Warehouse Scan-Out\bin\Debug\Internal Warehouse Scan-Out.pdb
+d:\documents\visual studio 2015\Projects\Internal Warehouse Scan-Out\Internal Warehouse Scan-Out\obj\Debug\Internal Warehouse Scan-Out.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Internal Warehouse Scan-Out\Internal Warehouse Scan-Out\obj\Debug\Inventory_Data.frmInternalWarehouseResponsive.resources
+d:\documents\visual studio 2015\Projects\Internal Warehouse Scan-Out\Internal Warehouse Scan-Out\obj\Debug\Internal_Warehouse_Scan_Out.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Internal Warehouse Scan-Out\Internal Warehouse Scan-Out\obj\Debug\Internal Warehouse Scan-Out.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Internal Warehouse Scan-Out\Internal Warehouse Scan-Out\obj\Debug\Internal Warehouse Scan-Out.exe
+d:\documents\visual studio 2015\Projects\Internal Warehouse Scan-Out\Internal Warehouse Scan-Out\obj\Debug\Internal Warehouse Scan-Out.pdb

@@ -1,0 +1,29 @@
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\bin\Debug\Warehouse Inventory Status.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Inventory_Data.frmWarehouseStatusMonitoring.resources
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse_Inventory_Status.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\bin\Debug\Warehouse Inventory Status.exe
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\bin\Debug\Warehouse Inventory Status.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.exe
+d:\documents\visual studio 2015\Projects\Warehouse Inventory Status\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\bin\Debug\Warehouse Inventory Status 2.exe.config
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\bin\Debug\Warehouse Inventory Status 2.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\bin\Debug\Warehouse Inventory Status 2.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\obj\Debug\Inventory_Data.frmWarehouseStatusMonitoring.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\obj\Debug\Warehouse_Inventory_Status.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status 2.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status\obj\Debug\Warehouse Inventory Status 2.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\bin\Debug\Warehouse Inventory Status 2.exe.config
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\bin\Debug\Warehouse Inventory Status 2.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\bin\Debug\Warehouse Inventory Status 2.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\obj\Debug\Warehouse Inventory Status.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\obj\Debug\Warehouse Inventory Status.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\obj\Debug\Inventory_Data.frmWarehouseStatusMonitoring.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\obj\Debug\Warehouse_Inventory_Status.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\obj\Debug\Warehouse Inventory Status.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\obj\Debug\Warehouse Inventory Status 2.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse Inventory Status 2\Warehouse Inventory Status 2\obj\Debug\Warehouse Inventory Status 2.pdb

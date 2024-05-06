@@ -1,0 +1,698 @@
+<html>
+
+<head>
+<title>Sample Program [POSPrinter]</title>
+<style type="text/css">
+<!--
+a:link       { color: #003399 }
+a:visited    { color: #003399 }
+a:hover      { color: red }
+-->
+</style>
+</head>
+
+<body bgcolor="#FFFFD8">
+
+<h1><font size="4">EPSON OPOS ADK for .NET Sample Program</font></h1>
+<h2>Device:<strong>&nbsp;&nbsp; POS Printer</strong></h2>
+<table border="0" cellpadding="3" cellspacing="3" width="100%">
+
+ <tr>
+  <td width="20%"><br></td>
+ </tr>
+ <tr>
+  <td colspan=2>
+  <h4>Step 1  Print &quot;Hello OPOS&quot;.(<a
+  href="CSharp/Printer/PrinterSample_Step1/">C# Sample</a>, <a
+  href="VB.NET/Printer/PrinterSample_Step1/">VB.NET
+  Sample</a>)</h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Normal printing without any errors.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>Open, Claim, PrintNormal, Release, Close</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>DeviceEnabled</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step 2
+  Print various types of characters.(<a
+  href="CSharp/Printer/PrinterSample_Step2/">C# Sample</a>, <a
+  href="VB.NET/Printer/PrinterSample_Step2/">VB.NET
+  Sample</a> ) <o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Here is an example of receipt.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step 3
+  Print bitmaps.(<a
+  href="CSharp/Printer/PrinterSample_Step3/">C# Sample</a>, <a
+  href="VB.NET/Printer/PrinterSample_Step3/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Before printing bitmaps on receipts, send
+  the bitmap image to the printer using the new method, SetBitmap.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>SetBitmap</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:14'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>RecLetterQuality</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:15'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:16'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step 4
+  Print barcodes.(<a
+  href="CSharp/Printer/PrinterSample_Step4/">C# Sample</a>, <a
+  href="VB.NET/Printer/PrinterSample_Step4/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:17'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>To print barcodes, follow the sample
+  program provided.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:18'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>PrintBarCode</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:19'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>RecLetterQuality</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:20'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:21'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step 5
+  Writing a module that is independent of device types.(<a
+  href="CSharp/Printer/PrinterSample_Step5/">C# Sample</a>, <a
+  href="VB.NET/Printer/PrinterSample_Step5/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:22'>
+  <td colspan=2>
+  <p class=MsoNormal style='margin-bottom:12.0pt'><span lang=EN-US>Using OPOS
+  enables to make a device-independent applicaition easier.<br>
+  This step shows how to change the Step 4 application to a device independent
+  application.</span></p>
+  <ul type=disc>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l3 level1 lfo3;tab-stops:list 36.0pt'><span lang=EN-US>Regardless
+       of a printer model, a bitmap is printed as half size of the paper width.</span></li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l3 level1 lfo3;tab-stops:list 36.0pt'><span lang=EN-US>Regardless
+       of a printer model, goods and the prices are printed along the edge of
+       the paper.</span></li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l3 level1 lfo3;tab-stops:list 36.0pt'><span lang=EN-US>Regardless
+       of a printer model, spaces between the lines of text are fixed.</span></li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l3 level1 lfo3;tab-stops:list 36.0pt'><span lang=EN-US>Regardless
+       of a printer model, the barcode is printed with a height of 1cm.</span></li>
+  </ul>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:23'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:24'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>CapRecPapercut, CapRecPresent,
+  CapRecBitmap, CapRecBarCode, MapMode, RecLineChars, RecLineWidth,
+  RecLinesToPaperCut</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:25'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:26'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step 6
+  Use the TransactionPrint.(<a
+  href="CSharp/Printer/PrinterSample_Step6/">C# Sample</a>, <a
+  href="VB.NET/Printer/PrinterSample_Step6/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:27'>
+  <td colspan=2>
+  <p class=MsoNormal style='margin-bottom:12.0pt'><span lang=EN-US>The
+  advantages of using TransactionPrint are as follows.</span></p>
+  <ul type=disc>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo6;tab-stops:list 36.0pt'><span lang=EN-US>Performace
+       improvement by outputting multiple methods at once.</span></li>
+   <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo6;tab-stops:list 36.0pt'><span lang=EN-US>Error
+       handling can be performed in one location.</span></li>
+  </ul>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:28'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>TransactionPrint</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:29'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:30'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:31'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step 7
+  Use the asynchronous outputting.(<a
+  href="CSharp/Printer/PrinterSample_Step7/">C# Sample</a>, <a
+  href="VB.NET/Printer/PrinterSample_Step7/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:32'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Asynchronous print enables the operation
+  of a mouse or keyboard while printing.<br>
+  The EPSON OPOS enables to asynchronous output by changing the value of the
+  AsyncMode property.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:33'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:34'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>AsyncMode</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:35'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:36'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step 8
+  Rotate printing.(<a
+  href="CSharp/Printer/PrinterSample_Step8/">C# Sample</a>, <a
+  href="VB.NET/Printer/PrinterSample_Step8/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:37'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Prints on a receipt using Rotated
+  Printing mode.</span></p>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:red'>This
+  sample program does not support 58mm paper.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:38'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>RotatePrint</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:39'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>CapRecLeft90, RecSidewaysMaxLines,
+  RecSidewaysMaxChars, RecLineSpacing, RecLineHeight</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:40'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:41'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step 9
+  Print on slips.(<a
+  href="CSharp/Printer/PrinterSample_Step9/">C# Sample</a>, <a
+  href="VB.NET/Printer/PrinterSample_Step9/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:42'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Include handling for insertion and
+  removal.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:43'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>BeginInsertion, EndInsertion,
+  Beginremoval, Endremoval</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:44'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>CapSlpPresent, CapSlpLineChars,
+  CapSlpLineWidth</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:45'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:46'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step
+  10 Adding errors.(<a
+  href="CSharp/Printer/PrinterSample_Step10/">C# Sample</a>,
+  <a href="VB.NET/Printer/PrinterSample_Step10/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:47'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Adding error handling for Step 7,8,and 9.<br>
+  </span><span lang=EN-US style='font-size:10.0pt;color:red'>This sample
+  program supports TM-L90 with Peeler.</span><span lang=EN-US style='color:
+  red'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:48'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:49'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step
+  11 Use the EPSON original methods.(<a
+  href="CSharp/Printer/PrinterSample_Step11/">C# Sample</a>,
+  <a href="VB.NET/Printer/PrinterSample_Step11/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>The EPSON original methods (DirectIO,
+  ESC, etc.) provide various useful functions.<br>
+  </span><span lang=EN-US style='font-size:10.0pt;color:red'>This sample
+  program supports TM-L90 with Peeler.</span><span lang=EN-US style='color:
+  red'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>DirectIO</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step
+  12 Rotated-Prints Bitmaps and Barcodes.(<a
+  href="CSharp/Printer/PrinterSample_Step12/">C# Sample</a>,
+  <a href="VB.NET/Printer/PrinterSample_Step12/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Prints Bitmaps and Barcodes on receipts using
+  the Rotated Printing mode of Bitmap and Barcode. <br>
+  </span><span lang=EN-US style='font-size:10.0pt;color:red'>This sample
+  program supports TM-L90 with Peeler.</span><span lang=EN-US style='color:
+  red'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>RecBitmapRotationList,
+  RecBarcodeRotationList</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step
+  13 Obtains the statistics of the device.(<a
+  href="CSharp/Printer/PrinterSample_Step13/">C# Sample</a>,
+  <a href="VB.NET/Printer/PrinterSample_Step13/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Obtains the statistics of the device. <br>
+  </span><span lang=EN-US style='font-size:10.0pt;color:red'>This sample
+  program supports TM-L90 with Peeler.</span><span lang=EN-US style='color:
+  red'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>RetrieveStatistics</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>CapStatisticsReporting</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step
+  14 Printing in Page Mode.(<a
+  href="CSharp/Printer/PrinterSample_Step14/">C# Sample</a>,
+  <a href="VB.NET/Printer/PrinterSample_Step14/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Prints Coupon Ticket by creating multiple
+  print areas and print them in Page Mode. <br>
+  </span><span lang=EN-US style='font-size:10.0pt;color:red'>This sample
+  program supports TM-L90 with Peeler.</span><span lang=EN-US style='color:
+  red'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>PageModePrint</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:69'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>CapRecPageMode, PageModeStation,
+  PageModeDescriptor, PageModePrintArea, PageModeArea,
+  PageModeHorizontalPosition, PageModeVerticalPosition, PageModePrintDirection</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:70;mso-yfti-lastrow:yes'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+  <tr style='mso-yfti-irow:71'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step
+  15 Print Memory Bitmap.(<a
+  href="CSharp/Printer/PrinterSample_Step15/">C# Sample</a>,
+  <a href="VB.NET/Printer/PrinterSample_Step15/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:72'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>Using the PrintMemoryBitmap function, prints a bitmap object.<br>
+  </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:73'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>PrintMemoryBitmap</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:74'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:75;mso-yfti-lastrow:yes'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+  <tr style='mso-yfti-irow:71'>
+  <td colspan=2>
+  <h4><span lang=EN-US style='mso-fareast-font-family:"Times New Roman"'>Step
+  16 Multi-tone Prints.(<a
+  href="CSharp/Printer/PrinterSample_Step16/">C# Sample</a>,
+  <a href="VB.NET/Printer/PrinterSample_Step16/">VB.NET
+  Sample</a>)<o:p></o:p></span></h4>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:72'>
+  <td colspan=2>
+  <p class=MsoNormal><span lang=EN-US>The coupon will be printed using the Multi-tone print function.<br>
+  </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:73'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Method</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>PrintBitmap</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:74'>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US>New Property</span></p>
+  </td>
+  <td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:75;mso-yfti-lastrow:yes'>
+  <td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+  <p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr></table>
+
+</body>
+
+</html>

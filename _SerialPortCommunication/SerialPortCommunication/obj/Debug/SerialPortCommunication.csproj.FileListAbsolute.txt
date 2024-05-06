@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2015\Projects\_SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe.config
+D:\Documents\Visual Studio 2015\Projects\_SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.exe
+D:\Documents\Visual Studio 2015\Projects\_SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.pdb
+D:\Documents\Visual Studio 2015\Projects\_SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.exe
+D:\Documents\Visual Studio 2015\Projects\_SerialPortCommunication\SerialPortCommunication\bin\Debug\SerialPortCommunication.pdb
+D:\Documents\Visual Studio 2015\Projects\_SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.frmMain.resources
+D:\Documents\Visual Studio 2015\Projects\_SerialPortCommunication\SerialPortCommunication\obj\Debug\PCComm.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\_SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\_SerialPortCommunication\SerialPortCommunication\obj\Debug\SerialPortCommunication.csprojResolveAssemblyReference.cache

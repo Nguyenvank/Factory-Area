@@ -1,0 +1,29 @@
+;
+;	TM-U330_sc Device Infomation file
+;
+;	Copyright (c) 2014 SEIKO EPSON Corp. All Rights reserved.
+;
+;	Revision history:
+;	2014-04-08	new
+;
+;
+
+[Common]
+MappingTableNumber=1
+InternalCharacterSetNumber=1
+ICSCommandDefault=0
+DecompositionClassNumber=1160
+GeneralCategorySize=2
+CanonicalCombiningClassSize=1
+BidiClassSize=3
+DecompositionMappingSize=4
+
+;CP437(USA,Standard Europe)
+[Table1]
+CodePage=437
+TableCommandParam=0
+TableFileName=cp437.txt
+
+[ICS1]
+ICSCommandParam=0
+ICSFileName=ICS_None.txt

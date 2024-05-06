@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\bin\Debug\Warehouse Material Scan-In WH5.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\obj\Debug\Warehouse Material Scan-In WH5.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\obj\Debug\Inventory_Data.frmWarehouseMaterialScanInWH5.resources
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\obj\Debug\Warehouse_Material_Scan_In_WH5.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\obj\Debug\Warehouse Material Scan-In WH5.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\bin\Debug\Warehouse Material Scan-In WH5.exe
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\bin\Debug\Warehouse Material Scan-In WH5.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\bin\Debug\DataMatrix.net.dll
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\obj\Debug\Warehouse Material Scan-In WH5.exe
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\obj\Debug\Warehouse Material Scan-In WH5.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH5\Warehouse Material Scan-In WH5\obj\Debug\Warehouse Material Scan-In WH5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Orders Approve System.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Inventory_Data.frmPM_00LoginSystem.resources
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Inventory_Data.frmPM_02WorkApprove.resources
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Inventory_Data.frmPM_02WorkApprove_Details.resources
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Orders Approve System.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\bin\Debug\Orders Approve System.exe.config
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\bin\Debug\Orders Approve System.exe
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\bin\Debug\Orders Approve System.pdb
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Orders Approve System.exe
+d:\documents\visual studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Orders Approve System.pdb
+D:\Documents\Visual Studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Orders_Approve_System.frmES_02ManagerApprove.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Inventory_Data.frmPM_02WorkApprove_ES_Details.resources
+D:\Documents\Visual Studio 2015\Projects\Orders Approve System\Orders Approve System\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Orders Approve System\Orders Approve System\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Orders Approve System\Orders Approve System\bin\Debug\cls.dll.config
+D:\Documents\Visual Studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Orders Approve System.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Orders Approve System\Orders Approve System\obj\Debug\Orders Approve System.csproj.CopyComplete

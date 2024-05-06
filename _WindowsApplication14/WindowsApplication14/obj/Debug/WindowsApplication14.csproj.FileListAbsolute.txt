@@ -1,0 +1,12 @@
+D:\MIscellaneos\C#\SerialPortCommunication\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+D:\MIscellaneos\C#\SerialPortCommunication\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+D:\MIscellaneos\C#\SerialPortCommunication\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.exe
+D:\MIscellaneos\C#\SerialPortCommunication\WindowsApplication14\WindowsApplication14\bin\Debug\WindowsApplication14.pdb
+D:\MIscellaneos\C#\SerialPortCommunication\WindowsApplication14\WindowsApplication14\obj\Debug\ResolveAssemblyReference.cache
+D:\MIscellaneos\C#\SerialPortCommunication\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Form1.resources
+D:\MIscellaneos\C#\SerialPortCommunication\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.Properties.Resources.resources
+D:\MIscellaneos\C#\SerialPortCommunication\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.csproj.GenerateResource.Cache
+C:\Users\ESDL\Desktop\SerialPortCommunication\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+C:\Users\ESDL\Desktop\SerialPortCommunication\WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb
+D:\Documents\Visual Studio 2015\Projects\_WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.exe
+D:\Documents\Visual Studio 2015\Projects\_WindowsApplication14\WindowsApplication14\obj\Debug\WindowsApplication14.pdb

@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawerSample_Step1", "DrawerSample_Step1.csproj", "{1CE6359B-21EF-40AA-A6E7-9A18B36BC549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE6359B-21EF-40AA-A6E7-9A18B36BC549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE6359B-21EF-40AA-A6E7-9A18B36BC549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE6359B-21EF-40AA-A6E7-9A18B36BC549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE6359B-21EF-40AA-A6E7-9A18B36BC549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

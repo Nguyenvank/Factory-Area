@@ -1,0 +1,252 @@
+<html>
+	<head>
+		<title>Sample Program [ElectronicJournal]</title>
+		<style type="text/css">
+			<!--
+a:link       { color: #003399 }
+a:visited    { color: #003399 }
+a:hover      { color: red }
+--></style>
+	</head>
+	<body bgcolor="#FFFFD8">
+		<h1><font size="4">EPSON OPOS ADK for .NET Sample Program</font></h1>
+		<h2>Device:<strong>&nbsp;&nbsp; ElectronicJournal</strong></h2>
+		<table border="0" cellpadding="3" cellspacing="3" width="100%">
+			<tr>
+				<td width="20%"><br>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<h4>Step 1 Storing PosPrinter Output.(<a href="CSharp/EJ/EJSample_Step1/">C# Sample</a>,
+						<a href="VB.NET/EJ/EJSample_Step1/">VB.NET Sample</a>)</h4>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:2'>
+				<td colspan="2">
+					<p class="MsoNormal"><span lang="EN-US">Saves PosPrinter output data in an ElectronicJournal file and assigns markers.</span></p>
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;color:red'>Printed content is the same as PosPrinter Sample Program Step 8.</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:3'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Method</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">Open, Claim, AddMarker, Release, Close</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:4'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Property</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">DeviceEnabled, StorageEnabled</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:5'>
+				<td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+				<td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:6'>
+				<td colspan="2">
+					<h4><span lang="EN-US" style='mso-fareast-font-family:"Times New Roman"'>Step 2
+  Printing the data saved in storage medium.(<a href="CSharp/EJ/EJSample_Step2/">C# Sample</a>, <a href="VB.NET/EJ/EJSample_Step2/">VB.NET 
+								Sample</a> ) <o:p></o:p></span></h4>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:7'>
+				<td colspan="2">
+					<p class="MsoNormal"><span lang="EN-US">After specifying the start and end markers, prints the saved data between these markers. Erases all the data that has been saved in ElectronicJournal</span>.</p>
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;color:red'>Printed content is the same as PosPrinter Sample Program Step 8.</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:8'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Method</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">PrintContent, EraseMedium
+						</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:9'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Property</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:10'>
+				<td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+				<td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:11'>
+				<td colspan="2">
+					<h4><span lang="EN-US" style='mso-fareast-font-family:"Times New Roman"'>Step 3
+ Extract Content to a Separate file and print from file.(<a href="CSharp/EJ/EJSample_Step3/">C# 
+								Sample</a>, <a href="VB.NET/EJ/EJSample_Step3/">VB.NET Sample</a>)<o:p></o:p></span></h4>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:12'>
+				<td colspan="2">
+					<p class="MsoNormal"><span lang="EN-US">Extracts the data between the specifed start and end markers, and saves the data to a file. Prints the extracted data from the file. Demonstrates the use of ErrorResponse and ErrorEvent during an asynchronous process.
+  </span></p>
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;color:red'>Printed content is the same as PosPrinter Sample Program Step 8.</span></p>
+					<p class="MsoNormal"><span lang="EN-US">While in AsyncMode, the following events will be notified:</span></p>
+					<ul type="disc">
+						<li class="MsoNormal" style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l3 level1 lfo3;tab-stops:list 36.0pt'>
+							<span lang="EN-US">OutputCompleteEvent</span></li>
+						<li class="MsoNormal" style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l3 level1 lfo3;tab-stops:list 36.0pt'>
+							<span lang="EN-US">DataEvent</span></li>
+						<li class="MsoNormal" style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l3 level1 lfo3;tab-stops:list 36.0pt'>
+							<span lang="EN-US">ErrorEvent</span></li>
+					</ul>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:13'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Method</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">QueryContent, PrintContentFile</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:14'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Property</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">AsyncMode, DataEventEnabled</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:15'>
+				<td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+				<td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:16'>
+				<td colspan="2">
+					<h4><span lang="EN-US" style='mso-fareast-font-family:"Times New Roman"'>Step 4
+  Using Suspend Mode.(<a href="CSharp/EJ/EJSample_Step4/">C# Sample</a>, <a href="VB.NET/EJ/EJSample_Step4/">VB.NET 
+								Sample</a>)<o:p></o:p></span></h4>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:17'>
+				<td colspan="2">
+					<p class="MsoNormal"><span lang="EN-US">Suspends, Resumes and Cancels ElectronicJournal asynchronous processes.</span></p>
+					<p class="MsoNormal"><span lang="EN-US">The Suspend Button is Enabled only when the following State Events occur.</span></p>
+<ul type="disc">
+						<li class="MsoNormal" style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l3 level1 lfo3;tab-stops:list 36.0pt'>
+							<span lang="EN-US">PosPrinter Paper Near End</span></li>
+					</ul>
+
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;color:red'>Printed content is the same as PosPrinter Sample Program Step 8.</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:18'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Method</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">SuspendPrintContent, ResumePrintContent, CancelPrintContent</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:19'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Property</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:20'>
+				<td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+				<td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:16'>
+				<td colspan="2">
+					<h4><span lang="EN-US" style='mso-fareast-font-family:"Times New Roman"'>Step 5
+  Retrieve Device Statistics(<a href="CSharp/EJ/EJSample_Step5/">C# Sample</a>, <a href="VB.NET/EJ/EJSample_Step5/">VB.NET 
+								Sample</a>)<o:p></o:p></span></h4>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:17'>
+				<td colspan="2">
+					<p class="MsoNormal"><span lang="EN-US">Using RetrieveStatistics method, obtains the ElectronicJournal device statistics.</span></p>
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;color:red'>Printed content is the same as PosPrinter Sample Program Step 8.</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:18'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Method</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">RetrieveStatistics</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:19'>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US">New Property</span></p>
+				</td>
+				<td style='background:#C8FFC0;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+			</tr>
+			<tr style='mso-yfti-irow:20'>
+				<td width="20%" style='width:20.0%;padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+				<td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'>
+					<p class="MsoNormal"><span lang="EN-US" style='font-size:10.0pt;font-family:Century'><o:p>&nbsp;</o:p>
+                        &nbsp;
+						</span></p>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>

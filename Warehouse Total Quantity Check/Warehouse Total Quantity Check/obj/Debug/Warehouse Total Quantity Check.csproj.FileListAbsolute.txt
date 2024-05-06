@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Warehouse Total Quantity Check\Warehouse Total Quantity Check\bin\Debug\Warehouse Total Quantity Check.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Total Quantity Check\Warehouse Total Quantity Check\bin\Debug\Warehouse Total Quantity Check.exe
+d:\documents\visual studio 2015\Projects\Warehouse Total Quantity Check\Warehouse Total Quantity Check\bin\Debug\Warehouse Total Quantity Check.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Total Quantity Check\Warehouse Total Quantity Check\obj\Debug\Warehouse Total Quantity Check.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Total Quantity Check\Warehouse Total Quantity Check\obj\Debug\Inventory_Data.frmWarehouseTotalQuantityCheck.resources
+d:\documents\visual studio 2015\Projects\Warehouse Total Quantity Check\Warehouse Total Quantity Check\obj\Debug\Warehouse_Total_Quantity_Check.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse Total Quantity Check\Warehouse Total Quantity Check\obj\Debug\Warehouse Total Quantity Check.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Total Quantity Check\Warehouse Total Quantity Check\obj\Debug\Warehouse Total Quantity Check.exe
+d:\documents\visual studio 2015\Projects\Warehouse Total Quantity Check\Warehouse Total Quantity Check\obj\Debug\Warehouse Total Quantity Check.pdb

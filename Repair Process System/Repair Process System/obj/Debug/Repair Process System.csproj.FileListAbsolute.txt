@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\bin\Debug\Repair Process System.exe.config
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\bin\Debug\Repair Process System.exe
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\bin\Debug\Repair Process System.pdb
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\obj\Debug\Repair Process System.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\obj\Debug\Inventory_Data.frmPM_00LoginSystem.resources
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\obj\Debug\Inventory_Data.frmPM_03RepairProcess.resources
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\obj\Debug\Repair_Process_System.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\obj\Debug\Repair Process System.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\obj\Debug\Repair Process System.exe
+D:\Documents\Visual Studio 2015\Projects\Repair Process System\Repair Process System\obj\Debug\Repair Process System.pdb

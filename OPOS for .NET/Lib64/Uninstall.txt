@@ -1,0 +1,3 @@
+C:\Program Files\EPSON\OPOS for .NET\Lib64\EpsUCCvt.dll
+C:\Program Files\EPSON\OPOS for .NET\Lib64\EpsUCSet.txt
+C:\Program Files\EPSON\OPOS for .NET\Lib64\EpucUnsL.exe

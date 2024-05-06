@@ -1,0 +1,13 @@
+d:\documents\visual studio 2015\Projects\Assembly Work Order\Assembly Work Order\bin\Debug\Assembly Work Order.exe.config
+d:\documents\visual studio 2015\Projects\Assembly Work Order\Assembly Work Order\bin\Debug\Assembly Work Order.exe
+d:\documents\visual studio 2015\Projects\Assembly Work Order\Assembly Work Order\bin\Debug\Assembly Work Order.pdb
+d:\documents\visual studio 2015\Projects\Assembly Work Order\Assembly Work Order\obj\Debug\Inventory_Data.frmCapacityWorkOrders_v2.resources
+d:\documents\visual studio 2015\Projects\Assembly Work Order\Assembly Work Order\obj\Debug\Assembly_Work_Order.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Assembly Work Order\Assembly Work Order\obj\Debug\Assembly Work Order.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Assembly Work Order\Assembly Work Order\obj\Debug\Assembly Work Order.exe
+d:\documents\visual studio 2015\Projects\Assembly Work Order\Assembly Work Order\obj\Debug\Assembly Work Order.pdb
+D:\Documents\Visual Studio 2015\Projects\Assembly Work Order\Assembly Work Order\bin\Debug\DataMatrix.net.dll
+D:\Documents\Visual Studio 2015\Projects\Assembly Work Order\Assembly Work Order\obj\Debug\Assembly Work Order.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Assembly Work Order\Assembly Work Order\obj\Debug\Assembly Work Order.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Assembly Work Order\Assembly Work Order\obj\Debug\Assembly Work Order.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Assembly Work Order\Assembly Work Order\obj\Debug\Assembly Work Order.csprojAssemblyReference.cache

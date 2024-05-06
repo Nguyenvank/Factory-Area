@@ -1,0 +1,43 @@
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\Temperature_Monitoring.exe.config
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\Temperature_Monitoring.exe
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.Form2.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.Form3.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Fan_1.frmAssyFromPLC.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Temperature Monitoring.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Temperature_Monitoring.exe
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.frmTemperatureSeperate.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\LiveCharts.dll
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\LiveCharts.pdb
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\LiveCharts.xml
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\LiveCharts.WinForms.dll
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\LiveCharts.Wpf.dll
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\LiveCharts.WinForms.pdb
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\LiveCharts.WinForms.xml
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\LiveCharts.Wpf.pdb
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\LiveCharts.Wpf.xml
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_Temperature_LiveCharts.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_Temperature_LiveCharts_Detail.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.frmTemperatureDetail.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_Temperature_LiveCharts_ByDate.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.frmTemperatureByDate_v2.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.frmTemperatureByDateSelected_v2.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_Temperature_ByDate_v2.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.frmTemperatureScreenUpdate.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_Temperature_LiveCharts_Plastic.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_Temperature_LiveData.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_Temperature_LiveCharts_Welding.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Temperature Monitoring.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_Temperature_LiveCharts_Assembly.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\bin\Debug\VerticalLabel.xml
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_PMS_Temperature_Injection_Digits.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_PMS_Temperature_Injection_Digits_02.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_PMS_Temperature_Injection_Digits_03.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_PMS_Temperature_Injection_Digits_04.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_PMS_Temperature_Injection_Digits_05.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Inventory_Data.Ctrl.uc_PMS_Temperature_Injection_Digits_06.resources
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Temperature Monitoring.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\_TemperatureOPC\obj\Debug\Temperature Monitoring.csproj.AssemblyReference.cache

@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Warehouse Defines\Warehouse Defines\bin\Debug\Warehouse Defines.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Defines\Warehouse Defines\obj\Debug\Inventory_Data.frmWarehouseDefines.resources
+d:\documents\visual studio 2015\Projects\Warehouse Defines\Warehouse Defines\obj\Debug\Warehouse_Defines.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse Defines\Warehouse Defines\obj\Debug\Warehouse Defines.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Defines\Warehouse Defines\bin\Debug\Warehouse Defines.exe
+d:\documents\visual studio 2015\Projects\Warehouse Defines\Warehouse Defines\bin\Debug\Warehouse Defines.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Defines\Warehouse Defines\obj\Debug\Warehouse Defines.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Defines\Warehouse Defines\obj\Debug\Warehouse Defines.exe
+d:\documents\visual studio 2015\Projects\Warehouse Defines\Warehouse Defines\obj\Debug\Warehouse Defines.pdb

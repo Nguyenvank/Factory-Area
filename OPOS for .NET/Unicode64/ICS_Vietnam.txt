@@ -1,0 +1,14 @@
+#
+#	International Character Set(Vietnam) Definition file
+#
+#	Copyright (c) 2009 SEIKO EPSON Corp. All Rights reserved.
+#
+#	Revision history:
+#	2009-12-04	new
+#
+#    Format: Three tab-separated columns
+#        Column #1 is the International charcter set(Vietnam) code (in hex)
+#        Column #2 is the Unicode (in hex as 0xXXXX)
+#        Column #3 is the Unicode name (follows a comment sign, '#')
+#
+0x23	0x20AB	#DONG SIGN

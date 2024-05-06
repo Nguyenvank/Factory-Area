@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Warehouse Report FinishGood ScanInOut\Warehouse Report FinishGood ScanInOut\bin\Debug\Warehouse Report FinishGood ScanInOut.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Report FinishGood ScanInOut\Warehouse Report FinishGood ScanInOut\bin\Debug\Warehouse Report FinishGood ScanInOut.exe
+d:\documents\visual studio 2015\Projects\Warehouse Report FinishGood ScanInOut\Warehouse Report FinishGood ScanInOut\bin\Debug\Warehouse Report FinishGood ScanInOut.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Report FinishGood ScanInOut\Warehouse Report FinishGood ScanInOut\obj\Debug\Warehouse Report FinishGood ScanInOut.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Report FinishGood ScanInOut\Warehouse Report FinishGood ScanInOut\obj\Debug\Inventory_Data.frmWarehouseReportFGInOut.resources
+d:\documents\visual studio 2015\Projects\Warehouse Report FinishGood ScanInOut\Warehouse Report FinishGood ScanInOut\obj\Debug\Warehouse_Report_FinishGood_ScanInOut.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse Report FinishGood ScanInOut\Warehouse Report FinishGood ScanInOut\obj\Debug\Warehouse Report FinishGood ScanInOut.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Report FinishGood ScanInOut\Warehouse Report FinishGood ScanInOut\obj\Debug\Warehouse Report FinishGood ScanInOut.exe
+d:\documents\visual studio 2015\Projects\Warehouse Report FinishGood ScanInOut\Warehouse Report FinishGood ScanInOut\obj\Debug\Warehouse Report FinishGood ScanInOut.pdb

@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Sub02 - Counting Inventory\Sub02 - Counting Inventory\obj\Debug\Sub02 - Counting Inventory.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Sub02 - Counting Inventory\Sub02 - Counting Inventory\obj\Debug\Inventory_Data.frmSub02CountingInventory.resources
+d:\documents\visual studio 2015\Projects\Sub02 - Counting Inventory\Sub02 - Counting Inventory\obj\Debug\Sub02___Counting_Inventory.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Sub02 - Counting Inventory\Sub02 - Counting Inventory\obj\Debug\Sub02 - Counting Inventory.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Sub02 - Counting Inventory\Sub02 - Counting Inventory\bin\Debug\Sub02 - Counting Inventory.exe.config
+d:\documents\visual studio 2015\Projects\Sub02 - Counting Inventory\Sub02 - Counting Inventory\bin\Debug\Sub02 - Counting Inventory.exe
+d:\documents\visual studio 2015\Projects\Sub02 - Counting Inventory\Sub02 - Counting Inventory\bin\Debug\Sub02 - Counting Inventory.pdb
+d:\documents\visual studio 2015\Projects\Sub02 - Counting Inventory\Sub02 - Counting Inventory\obj\Debug\Sub02 - Counting Inventory.exe
+d:\documents\visual studio 2015\Projects\Sub02 - Counting Inventory\Sub02 - Counting Inventory\obj\Debug\Sub02 - Counting Inventory.pdb

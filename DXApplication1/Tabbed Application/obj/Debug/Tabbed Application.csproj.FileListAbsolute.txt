@@ -1,0 +1,51 @@
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\Tabbed Application.exe
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\Tabbed Application.pdb
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Data.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Utils.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.XtraBars.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Data.v18.1.xml
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Utils.v18.1.xml
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.XtraBars.v18.1.xml
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\obj\Debug\Tabbed_Application.Form1.resources
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\obj\Debug\Tabbed_Application.Properties.Resources.resources
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\obj\Debug\Tabbed Application.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\obj\Debug\Tabbed Application.exe
+d:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\obj\Debug\Tabbed Application.pdb
+D:\Documents\Visual Studio 2015\Projects\DXApplication1\Tabbed Application\bin\Debug\Tabbed Application.exe.config

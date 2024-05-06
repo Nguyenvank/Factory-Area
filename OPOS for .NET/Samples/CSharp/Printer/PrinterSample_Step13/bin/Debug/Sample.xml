@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UPOSStat version="1.14.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.nrf-arts.org/UnifiedPOS/namespace/" xsi:schemaLocation="http://www.nrf-arts.org/UnifiedPOS/namespace/ UPOSStat.xsd">
+  <Event>
+    <Parameter>
+      <Name>HoursPoweredCount</Name>
+      <Value>6</Value>
+    </Parameter>
+    <Parameter>
+      <Name>ReceiptCharacterPrintedCount</Name>
+      <Value>14055</Value>
+    </Parameter>
+  </Event>
+  <Equipment>
+    <UnifiedPOSVersion>1.14.1</UnifiedPOSVersion>
+    <DeviceCategory UPOS="POSPrinter" />
+    <ManufacturerName>EPSON</ManufacturerName>
+    <ModelName>TM-T82II</ModelName>
+  </Equipment>
+</UPOSStat>

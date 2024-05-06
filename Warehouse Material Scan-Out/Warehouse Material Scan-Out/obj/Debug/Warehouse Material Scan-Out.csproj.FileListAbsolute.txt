@@ -1,0 +1,21 @@
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\bin\Debug\Warehouse Material Scan-Out.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\bin\Debug\Warehouse Material Scan-Out.exe
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\bin\Debug\Warehouse Material Scan-Out.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse Material Scan-Out.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.frmWarehouseMaterialScanOut.resources
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse Material Scan-Out.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse Material Scan-Out.exe
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse Material Scan-Out.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse Material Scan-Out.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse Material Scan-Out.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.Ctrl.uc_MMS_WarehouseMaterialScanOut_v1o0.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.frm_Main.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.Ctrl.uc_MMS_WarehouseMaterialScanOut_v1o1.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Warehouse Material Scan-Out.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.frmWarehouseMaterialScanOut_v1o1.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.frmWarehouseMaterialScanOut_v1o1_Message.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.frmWarehouseMaterialScanOut_v1o2.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\obj\Debug\Inventory_Data.frmWarehouseMaterialScanOut_v1o2_Message_v1o0.resources
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-Out\Warehouse Material Scan-Out\bin\Debug\cls.dll

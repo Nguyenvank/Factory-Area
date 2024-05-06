@@ -1,0 +1,14 @@
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\bin\Debug\Warehouse Material Scan-In WH7.exe.config
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\obj\Debug\Warehouse Material Scan-In WH7.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\obj\Debug\Inventory_Data.frmWarehouseMaterialScanInWH7.resources
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\obj\Debug\Warehouse_Material_Scan_In_WH7.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\obj\Debug\Warehouse Material Scan-In WH7.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\bin\Debug\Warehouse Material Scan-In WH7.exe
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\bin\Debug\Warehouse Material Scan-In WH7.pdb
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\bin\Debug\DataMatrix.net.dll
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\obj\Debug\Warehouse Material Scan-In WH7.exe
+d:\documents\visual studio 2015\Projects\Warehouse Material Scan-In WH7\Warehouse Material Scan-In WH7\obj\Debug\Warehouse Material Scan-In WH7.pdb
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH8\Warehouse Material Scan-In WH7\bin\Debug\Warehouse Material Scan-In WH7.exe.config
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH8\Warehouse Material Scan-In WH7\obj\Debug\Warehouse Material Scan-In WH7.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH8\Warehouse Material Scan-In WH7\obj\Debug\Warehouse Material Scan-In WH7.exe
+D:\Documents\Visual Studio 2015\Projects\Warehouse Material Scan-In WH8\Warehouse Material Scan-In WH7\obj\Debug\Warehouse Material Scan-In WH7.pdb

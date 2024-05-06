@@ -1,0 +1,11 @@
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\bin\Debug\Assembly NG Signal.exe.config
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\bin\Debug\Assembly NG Signal.exe
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\bin\Debug\Assembly NG Signal.pdb
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\bin\Debug\DataMatrix.net.dll
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\obj\Debug\Assembly NG Signal.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\obj\Debug\Inventory_Data.frmCapacityWarning.resources
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\obj\Debug\Assembly_NG_Signal.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\obj\Debug\Assembly NG Signal.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\obj\Debug\Assembly NG Signal.exe
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\obj\Debug\Assembly NG Signal.pdb
+d:\documents\visual studio 2015\Projects\Assembly NG Signal\Assembly NG Signal\obj\Debug\Assembly NG Signal.csprojResolveAssemblyReference.cache

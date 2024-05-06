@@ -1,0 +1,15 @@
+d:\documents\visual studio 2015\Projects\MMT System\MMT System\bin\Debug\MMT System.exe.config
+d:\documents\visual studio 2015\Projects\MMT System\MMT System\bin\Debug\MMT System.exe
+d:\documents\visual studio 2015\Projects\MMT System\MMT System\bin\Debug\MMT System.pdb
+d:\documents\visual studio 2015\Projects\MMT System\MMT System\obj\Debug\MMT System.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\MMT System\MMT System\obj\Debug\Inventory_Data.frmInventoryBeginOfDay.resources
+d:\documents\visual studio 2015\Projects\MMT System\MMT System\obj\Debug\MMT System.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\MMT System\MMT System\obj\Debug\MMT System.exe
+d:\documents\visual studio 2015\Projects\MMT System\MMT System\obj\Debug\MMT System.pdb
+D:\Documents\Visual Studio 2015\Projects\MMT System\MMT System\obj\Debug\MMT System.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\MMT System\MMT System\obj\Debug\Inventory_Data.Ctrl.uc_Warehouse_Change_Sublocate.resources
+D:\Documents\Visual Studio 2015\Projects\MMT System\MMT System\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\MMT System\MMT System\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\MMT System\MMT System\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\MMT System\MMT System\bin\Debug\cls.dll.config
+D:\Documents\Visual Studio 2015\Projects\MMT System\MMT System\obj\Debug\MMT System.csproj.CopyComplete
